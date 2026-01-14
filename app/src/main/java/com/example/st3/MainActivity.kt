@@ -1,6 +1,5 @@
 package com.example.st3
 
-import android.graphics.Color
 import android.graphics.BitmapFactory
 import android.graphics.drawable.PictureDrawable
 import android.os.Build
@@ -27,19 +26,11 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun applySystemBarsStyle() {
-        // Make system bars blend with the splash tint/background (like the top bar).
-        // Our layout already draws edge-to-edge; keep bars transparent where possible.
+        // Our layout draws edge-to-edge; keep bars transparent so they blend with the splash image.
         WindowCompat.setDecorFitsSystemWindows(window, false)
 
-        val tintColor = Color.parseColor("#CC04677E") // 80% opacity of #04677E
-
         // Navigation bar: transparent on modern Android so content shows through.
-        // On older versions, set the tint directly.
-        window.navigationBarColor = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
-            Color.TRANSPARENT
-        } else {
-            tintColor
-        }
+        window.navigationBarColor = android.graphics.Color.TRANSPARENT
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
             window.isNavigationBarContrastEnforced = false
         }
