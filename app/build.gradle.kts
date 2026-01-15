@@ -1,5 +1,3 @@
-import org.gradle.api.tasks.Sync
-
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
@@ -37,20 +35,6 @@ android {
     }
 }
 
-// Sync Pixso/exported design assets from repository root `ASSETS/` into the Android app assets.
-val syncDesignAssets by tasks.registering(Sync::class) {
-    group = "assets"
-    description = "Sync root ASSETS/ into app/src/main/assets/design for packaging into the APK."
-
-    from(rootProject.layout.projectDirectory.dir("ASSETS"))
-    into(layout.projectDirectory.dir("src/main/assets/design"))
-    includeEmptyDirs = false
-}
-
-tasks.named("preBuild") {
-    dependsOn(syncDesignAssets)
-}
-
 dependencies {
 
     implementation(libs.androidx.core.ktx)
@@ -58,7 +42,6 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
-    implementation(libs.androidsvg)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

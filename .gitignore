@@ -20,7 +20,3 @@ Thumbs.db
 .externalNativeBuild
 .cxx
 local.properties
-
-# Generated copy of design assets (synced on build from repo root ASSETS/)
-/app/src/main/assets/design/*
-!/app/src/main/assets/design/.gitkeep
