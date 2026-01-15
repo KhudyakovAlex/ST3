@@ -37,12 +37,12 @@ android {
     }
 }
 
-// Sync Pixso/exported design assets from repository root `ASSETS/` into the Android app assets.
+// Sync Pixso/exported design assets from repository root `IMG/` into the Android app assets.
 val syncDesignAssets by tasks.registering(Sync::class) {
     group = "assets"
-    description = "Sync root ASSETS/ into app/src/main/assets/design for packaging into the APK."
+    description = "Sync root IMG/ into app/src/main/assets/design for packaging into the APK."
 
-    from(rootProject.layout.projectDirectory.dir("ASSETS"))
+    from(rootProject.layout.projectDirectory.dir("IMG"))
     into(layout.projectDirectory.dir("src/main/assets/design"))
     includeEmptyDirs = false
 }
