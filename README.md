@@ -5,6 +5,7 @@ Initial repository setup.
 ## Assets
 
 - `IMG/` — source images from Pixso/design.
-- **Do not download image files from Pixso**. Use Pixso NodeDSL and map image layers to existing files in `IMG/`.
-- **Lookup key**: prefer `fillPaints[].image.name` from NodeDSL (case-insensitive; normalize spaces/`_`/`-`; then try extensions like `.png/.jpg/.webp/.svg`).
+- **Не скачиваем файлы картинок из Pixso**. Берём Pixso NodeDSL и сопоставляем ассеты с уже существующими файлами в `IMG/`.
+- **Растровые изображения (PNG/JPG/WEBP)**: ключ поиска — `fillPaints[].image.name` из NodeDSL (без учёта регистра; нормализуем пробелы/`_`/`-`; подбираем расширение).
+- **Векторные логотипы (SVG)**: ключ поиска — `node.name` (например `"name":"Logo_Synaps"` → `IMG/Logo_Synaps.svg`, с той же нормализацией).
 - Build sync: `IMG/**` → `app/src/main/assets/design/**` (runs on `preBuild`).
