@@ -7,21 +7,8 @@ import androidx.compose.ui.graphics.Color
  * Do not edit manually - run sync command in Cursor to update
  */
 object PixsoColors {
-    val Color_Bg_bg_canvas = Color(0xFFF3F0F0)
-    val Color_Bg_bg_elevated = Color(0xFF6BBECF)
-    val Color_Bg_bg_primary_light = Color(0xFFDCF9FF)
-    val Color_Bg_bg_shade_disabled = Color(0x141B1C1C)
-    val Color_Bg_bg_shade_primary = Color(0x14004E60)
-    val Color_Bg_bg_subtle = Color(0xFFFBF9F9)
-    val Color_Bg_bg_surface = Color(0xFFFFFFFF)
-    val Color_Bg_error_bg = Color(0xFFFFEDEA)
-    val Color_Bg_scrim = Color(0xA31B1C1C)
-    val Color_Border_border_error = Color(0xFFB81F1E)
-    val Color_Border_border_focus = Color(0xFF6BBECF)
-    val Color_Border_border_primary = Color(0x3D004E60)
-    val Color_Border_border_shade_16 = Color(0x291B1C1C)
-    val Color_Border_border_shade_4 = Color(0x0A1B1C1C)
-    val Color_Border_border_shade_8 = Color(0x141B1C1C)
+
+    // ===== BASE COLORS =====
     val Color_Error_Error_0 = Color(0xFF000000)
     val Color_Error_Error_10 = Color(0xFF410002)
     val Color_Error_Error_100 = Color(0xFFFFFFFF)
@@ -66,7 +53,7 @@ object PixsoColors {
     val Color_Primary_Primary_25 = Color(0xFF004151)
     val Color_Primary_Primary_30 = Color(0xFF004E60)
     val Color_Primary_Primary_35 = Color(0xFF005A6F)
-    val Color_Primary_Primary_40 = Color(0xFF04687E)
+    val Color_Primary_Primary_40 = Color(0xFF1C7E04)
     val Color_Primary_Primary_5 = Color(0xFF00131A)
     val Color_Primary_Primary_50 = Color(0xFF318798)
     val Color_Primary_Primary_60 = Color(0xFF4FA2B3)
@@ -94,24 +81,6 @@ object PixsoColors {
     val Color_Secondary_Secondary_95 = Color(0xFFE4EEF0)
     val Color_Secondary_Secondary_98 = Color(0xFFF5F8F9)
     val Color_Secondary_Secondary_99 = Color(0xFFFAFCFC)
-    val Color_State_disabled = Color(0xFFE4E2E2)
-    val Color_State_on_disabled = Color(0xFFACABAB)
-    val Color_State_on_primary = Color(0xFFFFFFFF)
-    val Color_State_on_secondary = Color(0xFF04687E)
-    val Color_State_on_tertiary = Color(0xFFF2FDFF)
-    val Color_State_pressed_shade_24 = Color(0x3D1B1C1C)
-    val Color_State_pressed_shade_32 = Color(0x521B1C1C)
-    val Color_State_pressed_shade_4 = Color(0x0A1B1C1C)
-    val Color_State_primary = Color(0xFF04687E)
-    val Color_State_secondary = Color(0xFFF5F8F9)
-    val Color_State_tertiary = Color(0xFF313A3C)
-    val Color_Text_text_1_level = Color(0xFF00131A)
-    val Color_Text_text_2_level = Color(0xFF1B2324)
-    val Color_Text_text_3_level = Color(0xFF5F5E5E)
-    val Color_Text_text_4_level = Color(0xFF929090)
-    val Color_Text_text_error = Color(0xFFB81F1E)
-    val Color_Text_text_inverse = Color(0xFFF9FEFF)
-    val Color_Text_text_link = Color(0xFF318798)
     val Color_Transparent_Tint_color_16 = Color(0x29004E60)
     val Color_Transparent_Tint_color_24 = Color(0x3D004E60)
     val Color_Transparent_Tint_color_40 = Color(0x66004E60)
@@ -123,4 +92,39 @@ object PixsoColors {
     val Color_Transparent_Tint_neutral_40 = Color(0x661B1C1C)
     val Color_Transparent_Tint_neutral_64 = Color(0xA31B1C1C)
     val Color_Transparent_Tint_neutral_8 = Color(0x141B1C1C)
+
+    // ===== ALIAS COLORS =====
+    val Color_Bg_bg_canvas = Color_Neutral_Neutral_95
+    val Color_Bg_bg_elevated = Color_Error_Error_70
+    val Color_Bg_bg_primary_light = Color_Primary_Primary_95
+    val Color_Bg_bg_shade_disabled = Color_Transparent_Tint_neutral_8
+    val Color_Bg_bg_shade_primary = Color_Transparent_Tint_color_8
+    val Color_Bg_bg_subtle = Color_Neutral_Neutral_98
+    val Color_Bg_bg_surface = Color_Neutral_Neutral_100
+    val Color_Bg_error_bg = Color_Error_Error_95
+    val Color_Bg_scrim = Color_Transparent_Tint_neutral_64
+    val Color_Border_border_error = Color_Error_Error_40
+    val Color_Border_border_focus = Color_Primary_Primary_70
+    val Color_Border_border_primary = Color_Transparent_Tint_color_24
+    val Color_Border_border_shade_16 = Color_Transparent_Tint_neutral_16
+    val Color_Border_border_shade_4 = Color_Transparent_Tint_neutral_4
+    val Color_Border_border_shade_8 = Color_Transparent_Tint_neutral_8
+    val Color_State_disabled = Color_Neutral_Neutral_90
+    val Color_State_on_disabled = Color_Neutral_Neutral_70
+    val Color_State_on_primary = Color_Primary_Primary_100
+    val Color_State_on_secondary = Color_Primary_Primary_40
+    val Color_State_on_tertiary = Color_Primary_Primary_98
+    val Color_State_pressed_shade_24 = Color_Transparent_Tint_neutral_24
+    val Color_State_pressed_shade_32 = Color_Transparent_Tint_neutral_32
+    val Color_State_pressed_shade_4 = Color_Transparent_Tint_neutral_4
+    val Color_State_primary = Color_Primary_Primary_40
+    val Color_State_secondary = Color_Secondary_Secondary_98
+    val Color_State_tertiary = Color_Secondary_Secondary_30
+    val Color_Text_text_1_level = Color_Primary_Primary_5
+    val Color_Text_text_2_level = Color_Secondary_Secondary_20
+    val Color_Text_text_3_level = Color_Neutral_Neutral_40
+    val Color_Text_text_4_level = Color_Neutral_Neutral_60
+    val Color_Text_text_error = Color_Error_Error_40
+    val Color_Text_text_inverse = Color_Primary_Primary_99
+    val Color_Text_text_link = Color_Primary_Primary_50
 }
