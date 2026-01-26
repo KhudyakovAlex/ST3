@@ -8,11 +8,23 @@
 Команда: **"обнови токены из Pixso"**
 
 ### Файлы токенов
-- `ui/theme/PixsoColors.kt` — цвета (116 шт)
-- `ui/theme/PixsoDimens.kt` — размеры (123 шт)
-- `ui/theme/PixsoStrings.kt` — строки/шрифты (42 шт)
+- `ui/theme/PixsoColors.kt` — цвета (83 base + 33 aliases)
+- `ui/theme/PixsoDimens.kt` — размеры (66 base + 57 aliases)
+- `ui/theme/PixsoStrings.kt` — строки/шрифты (4 base + 38 aliases)
 - `ui/theme/PixsoTypography.kt` — TextStyle на основе токенов
 - `tokens/pixso_tokens_map.json` — маппинг Pixso ID → Kotlin name
+
+### Иерархия токенов
+Токены разделены на **базовые** и **алиасы**:
+```kotlin
+// ===== BASE VALUES =====
+val Font_Size_Size_16 = 16.sp
+
+// ===== ALIASES =====
+val Body_Body_L_Size = Font_Size_Size_16  // ссылка на базовый
+val Button_Button_M_Size = Font_Size_Size_16
+```
+При изменении базового токена — все алиасы обновятся автоматически.
 
 ### Привязка токенов
 Связь по **Pixso ID** (не по имени):
@@ -21,10 +33,23 @@
   "2:14": {
     "pixsoName": "Color/Primary/Primary_40",
     "kotlinName": "Color_Primary_Primary_40",
-    "type": "color"
+    "type": "color",
+    "isAlias": false
+  },
+  "8:120": {
+    "pixsoName": "Body/Body L/Tracking",
+    "kotlinName": "Body_Body_L_Tracking",
+    "type": "number",
+    "isAlias": true,
+    "refId": "8:50",
+    "refName": "Font/Tracking/Tracking_1"
   }
 }
 ```
+
+**Отслеживание изменений ссылок:**
+- `refId` — ID токена на который ссылается алиас
+- При синхронизации сравниваем `refId` чтобы обнаружить смену ссылки
 
 ### При синхронизации
 1. Получить токены: MCP `getVariableSets`
