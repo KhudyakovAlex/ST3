@@ -1,0 +1,1688 @@
+﻿{
+    "8:183":  {
+                  "pixsoName":  "Title/Title L/Font",
+                  "key":  "44751f06774d98a57a6746f0214be683d4557f4e",
+                  "type":  "string",
+                  "kotlinName":  "Title_Title_L_Font"
+              },
+    "2:14":  {
+                 "pixsoName":  "Color/Primary/Primary_40",
+                 "key":  "a06c56632740cd76f685ff01d820d35e5186e068",
+                 "type":  "color",
+                 "kotlinName":  "Color_Primary_Primary_40"
+             },
+    "2:117":  {
+                  "pixsoName":  "Space/Space_56",
+                  "key":  "1cd80a98c9a4370a3b9532d1638f0963673a2d4b",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_56"
+              },
+    "8:120":  {
+                  "pixsoName":  "Body/Body L/Tracking",
+                  "key":  "7c8ca9b3addd22994e50ada55bd5923f8eae5376",
+                  "type":  "number",
+                  "kotlinName":  "Body_Body_L_Tracking"
+              },
+    "5:1":  {
+                "pixsoName":  "Border-width/border-width_12",
+                "key":  "2fbac87e5fd1478a45f3eee842c7cc135213c487",
+                "type":  "number",
+                "kotlinName":  "Border_width_border_width_12"
+            },
+    "8:65":  {
+                 "pixsoName":  "Button/Button L/Tracking",
+                 "key":  "7126c8f5ea6f5e6d3140bde796ffeadb034193e9",
+                 "type":  "number",
+                 "kotlinName":  "Button_Button_L_Tracking"
+             },
+    "2:174":  {
+                  "pixsoName":  "Color/Border/border_shade_4",
+                  "key":  "9285a32fe20c39a29566bb019014d69605090ebb",
+                  "type":  "color",
+                  "kotlinName":  "Color_Border_border_shade_4"
+              },
+    "2:50":  {
+                 "pixsoName":  "Color/Error/Error_40",
+                 "key":  "997f443f053c28b97af2930e7b5e8cef744a5ea1",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_40"
+             },
+    "2:49":  {
+                 "pixsoName":  "Color/Error/Error_50",
+                 "key":  "34d833bd4940b51fb2739b5defe2091e63e63879",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_50"
+             },
+    "2:157":  {
+                  "pixsoName":  "Font/Size/Size_12",
+                  "key":  "a842f08a19f4d69c61ec2deead28a875ef4ac512",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_12"
+              },
+    "8:78":  {
+                 "pixsoName":  "Button/Button S/Line_Height",
+                 "key":  "a44cab6eaafe6ea10787ec80608d11030260026a",
+                 "type":  "number",
+                 "kotlinName":  "Button_Button_S_Line_Height"
+             },
+    "8:196":  {
+                  "pixsoName":  "Title/Title S/Line_Height",
+                  "key":  "9567b518d030a0fae050403b442d2ab87c9be0d8",
+                  "type":  "number",
+                  "kotlinName":  "Title_Title_S_Line_Height"
+              },
+    "2:110":  {
+                  "pixsoName":  "Space/Space_24",
+                  "key":  "4e55524a779b86a7f103070031e1fa8b946c927c",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_24"
+              },
+    "2:43":  {
+                 "pixsoName":  "Color/Error/Error_98",
+                 "key":  "f9379b9534707696475526892fd07123ddfaa35a",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_98"
+             },
+    "8:94":  {
+                 "pixsoName":  "Display/Display S/Line_Height",
+                 "key":  "69e0e89c3f1d83dc3d4cff84e0264da28b0c6fac",
+                 "type":  "number",
+                 "kotlinName":  "Display_Display_S_Line_Height"
+             },
+    "8:117":  {
+                  "pixsoName":  "Headline/Headline XS/Font",
+                  "key":  "b8b88c450c5ca426a79960d9477797ce05b7f8a2",
+                  "type":  "string",
+                  "kotlinName":  "Headline_Headline_XS_Font"
+              },
+    "8:66":  {
+                 "pixsoName":  "Button/Button M/Font",
+                 "key":  "08a58991a61caa64904427713656a98d50489f58",
+                 "type":  "string",
+                 "kotlinName":  "Button_Button_M_Font"
+             },
+    "4:3":  {
+                "pixsoName":  "Border-width/border-width_4",
+                "key":  "e7c8e9cabac0b3353b33ce2aa53b40d68115c26f",
+                "type":  "number",
+                "kotlinName":  "Border_width_border_width_4"
+            },
+    "11:1":  {
+                 "pixsoName":  "Color/Bg/scrim",
+                 "key":  "36538e8fb1078281ab332952c0a161fd3655a72b",
+                 "type":  "color",
+                 "kotlinName":  "Color_Bg_scrim"
+             },
+    "2:180":  {
+                  "pixsoName":  "Color/Text/text_error",
+                  "key":  "a172a473183d317c7aafc49dba79edc09798a8a7",
+                  "type":  "color",
+                  "kotlinName":  "Color_Text_text_error"
+              },
+    "2:115":  {
+                  "pixsoName":  "Space/Space_48",
+                  "key":  "06b1b926e22c830753aee103ac818a2f8459f1e9",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_48"
+              },
+    "8:184":  {
+                  "pixsoName":  "Title/Title L/Weight",
+                  "key":  "b5fb9da949a39f6c86a4949f3d7a4bd8e53f7697",
+                  "type":  "string",
+                  "kotlinName":  "Title_Title_L_Weight"
+              },
+    "4:9":  {
+                "pixsoName":  "Color/State/tertiary",
+                "key":  "e8c013eb22f8439bca268ff4d7da22d6663c9005",
+                "type":  "color",
+                "kotlinName":  "Color_State_tertiary"
+            },
+    "8:146":  {
+                  "pixsoName":  "Label/Label M/Weight",
+                  "key":  "1ad45eeb565dbdd39125ce7ac80764f374e29da7",
+                  "type":  "string",
+                  "kotlinName":  "Label_Label_M_Weight"
+              },
+    "2:60":  {
+                 "pixsoName":  "Color/Neutral/Neutral_99",
+                 "key":  "96097e4826bd2ed786b06b4110217496ba56d7ea",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_99"
+             },
+    "8:77":  {
+                 "pixsoName":  "Button/Button S/Weight",
+                 "key":  "306ef7542529e9fa3c42659d640d292e80d91752",
+                 "type":  "string",
+                 "kotlinName":  "Button_Button_S_Weight"
+             },
+    "2:47":  {
+                 "pixsoName":  "Color/Error/Error_70",
+                 "key":  "7157d206cd84bde2c8cb9039f0c8152c08509bf4",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_70"
+             },
+    "2:138":  {
+                  "pixsoName":  "Font/Size/Size_48",
+                  "key":  "114a5a327a18d6ef3056d2dbe8d39d16a993f32d",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_48"
+              },
+    "8:67":  {
+                 "pixsoName":  "Button/Button M/Weight",
+                 "key":  "6d84c7b97077aee53ef3280d6dc10169059645b5",
+                 "type":  "string",
+                 "kotlinName":  "Button_Button_M_Weight"
+             },
+    "8:51":  {
+                 "pixsoName":  "Font/Tracking/Tracking_2",
+                 "key":  "b0569998c349260850e3b2c1966955a57fa2735d",
+                 "type":  "number",
+                 "kotlinName":  "Font_Tracking_Tracking_2"
+             },
+    "8:114":  {
+                  "pixsoName":  "Headline/Headline XS/Size",
+                  "key":  "3515cea55399444c2e2a9ff770fb4eafdd7c6444",
+                  "type":  "number",
+                  "kotlinName":  "Headline_Headline_XS_Size"
+              },
+    "2:74":  {
+                 "pixsoName":  "Color/Neutral/Neutral_10",
+                 "key":  "678164630c6c88227c0b4212deeea0826aeb4b83",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_10"
+             },
+    "2:166":  {
+                  "pixsoName":  "Color/Bg/bg_surface",
+                  "key":  "3b7776a5e96bd5215658cffd4c183fd58d52b98b",
+                  "type":  "color",
+                  "kotlinName":  "Color_Bg_bg_surface"
+              },
+    "8:186":  {
+                  "pixsoName":  "Title/Title L/Line_Height",
+                  "key":  "a16ab215f7529732826fc1ec000a703ddc9f0e3b",
+                  "type":  "number",
+                  "kotlinName":  "Title_Title_L_Line_Height"
+              },
+    "2:76":  {
+                 "pixsoName":  "Color/Neutral/Neutral_0",
+                 "key":  "8a96795ebacd8573c4593aa419fc278ce29b4ec8",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_0"
+             },
+    "2:103":  {
+                  "pixsoName":  "Space/Space_0",
+                  "key":  "baafffea4cc1141736dd6b452c475a9e3c5dc8c9",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_0"
+              },
+    "2:18":  {
+                 "pixsoName":  "Color/Primary/Primary_20",
+                 "key":  "0011428a163dbde4b1d40c4218781d2afa57e620",
+                 "type":  "color",
+                 "kotlinName":  "Color_Primary_Primary_20"
+             },
+    "8:101":  {
+                  "pixsoName":  "Headline/Headline L/Font",
+                  "key":  "862a5f74557a3e4ec28e5d3b285da356c5f39062",
+                  "type":  "string",
+                  "kotlinName":  "Headline_Headline_L_Font"
+              },
+    "2:9":  {
+                "pixsoName":  "Color/Primary/Primary_90",
+                "key":  "a2cc209026a5ea6e383f925a738917df8663d122",
+                "type":  "color",
+                "kotlinName":  "Color_Primary_Primary_90"
+            },
+    "8:148":  {
+                  "pixsoName":  "Label/Label S/Line_Height",
+                  "key":  "47d0bf7094f5ba25ae057d966c2dc2f0f900d5de",
+                  "type":  "number",
+                  "kotlinName":  "Label_Label_S_Line_Height"
+              },
+    "2:24":  {
+                 "pixsoName":  "Color/Secondary/Secondary_99",
+                 "key":  "0fb4b54f28bed5fe9839376b783665408d3eadf8",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_99"
+             },
+    "3:9":  {
+                "pixsoName":  "Color/State/pressed_shade_4",
+                "key":  "93c82f872c412f5cf3eab4c16ec214c835a0de73",
+                "type":  "color",
+                "kotlinName":  "Color_State_pressed_shade_4"
+            },
+    "2:45":  {
+                 "pixsoName":  "Color/Error/Error_90",
+                 "key":  "2c80ddf4e4badce6f73b09ce64c399d8ce9917b2",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_90"
+             },
+    "8:42":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_64",
+                 "key":  "a5c7016324e1f000c4686bc88805f8a6372ae083",
+                 "type":  "number",
+                 "kotlinName":  "Font_Line_Height_Line_Height_64"
+             },
+    "8:152":  {
+                  "pixsoName":  "Label/Label S/Font",
+                  "key":  "aa1c3fdf5a2b24770d60bc23791ee29637236d7d",
+                  "type":  "string",
+                  "kotlinName":  "Label_Label_S_Font"
+              },
+    "3:3":  {
+                "pixsoName":  "Color/Bg/bg_shade_disabled",
+                "key":  "d0412b9163dfacf697bd2a98cc0f9f6af297498f",
+                "type":  "color",
+                "kotlinName":  "Color_Bg_bg_shade_disabled"
+            },
+    "2:66":  {
+                 "pixsoName":  "Color/Neutral/Neutral_60",
+                 "key":  "18055bcf9f3878409f9c25824b549c97f198acc3",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_60"
+             },
+    "2:52":  {
+                 "pixsoName":  "Color/Error/Error_30",
+                 "key":  "6a798ba9ae7a871ebfdc1c5616284e098866c225",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_30"
+             },
+    "2:168":  {
+                  "pixsoName":  "Color/Bg/bg_elevated",
+                  "key":  "ef42cbe1eb52d3c0c59d7da34f36973970e0fcc0",
+                  "type":  "color",
+                  "kotlinName":  "Color_Bg_bg_elevated"
+              },
+    "8:48":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_48",
+                 "key":  "921134196149e38b6a32430d24ea4438b7b32ee3",
+                 "type":  "number",
+                 "kotlinName":  "Font_Line_Height_Line_Height_48"
+             },
+    "2:114":  {
+                  "pixsoName":  "Space/Space_40",
+                  "key":  "db4a5edf83a335d207838ffffce96952ce623f3a",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_40"
+              },
+    "2:33":  {
+                 "pixsoName":  "Color/Secondary/Secondary_35",
+                 "key":  "5af5b28948182388bb24808c3a25143fbd93b86f",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_35"
+             },
+    "2:10":  {
+                 "pixsoName":  "Color/Primary/Primary_80",
+                 "key":  "18049e38dda37c69960d9c328f6b29ef5018a6a2",
+                 "type":  "color",
+                 "kotlinName":  "Color_Primary_Primary_80"
+             },
+    "2:7":  {
+                "pixsoName":  "Color/Primary/Primary_98",
+                "key":  "de242644065440c05d8d2c50cbea7f1317ce36c0",
+                "type":  "color",
+                "kotlinName":  "Color_Primary_Primary_98"
+            },
+    "4:5":  {
+                "pixsoName":  "Border-width/border-width_16",
+                "key":  "07db7b8cda1ec1e1190549c6073cd651d7dbb8f6",
+                "type":  "number",
+                "kotlinName":  "Border_width_border_width_16"
+            },
+    "8:84":  {
+                 "pixsoName":  "Display/Display L/Size",
+                 "key":  "e04a78313795293c9a1a0ad2236f6882acfdbeb4",
+                 "type":  "number",
+                 "kotlinName":  "Display_Display_L_Size"
+             },
+    "2:26":  {
+                 "pixsoName":  "Color/Secondary/Secondary_95",
+                 "key":  "4101f0767fd780fb05f0846ed55de464ea00d00d",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_95"
+             },
+    "8:63":  {
+                 "pixsoName":  "Button/Button L/Weight",
+                 "key":  "0f91074433d0300a351f37867dd8090767d5016e",
+                 "type":  "string",
+                 "kotlinName":  "Button_Button_L_Weight"
+             },
+    "8:124":  {
+                  "pixsoName":  "Body/Body M/Size",
+                  "key":  "c94ff77c25e4b291fc8915bbbb1ec56251080d41",
+                  "type":  "number",
+                  "kotlinName":  "Body_Body_M_Size"
+              },
+    "8:111":  {
+                  "pixsoName":  "Headline/Headline S/Font",
+                  "key":  "cb6a26f6e87af84395eafcaaf1a62afbb64e3e55",
+                  "type":  "string",
+                  "kotlinName":  "Headline_Headline_S_Font"
+              },
+    "2:139":  {
+                  "pixsoName":  "Font/Size/Size_52",
+                  "key":  "800fdc13eba9275d1e088aeb82dd89ed8de6fd36",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_52"
+              },
+    "2:59":  {
+                 "pixsoName":  "Color/Neutral/Neutral_100",
+                 "key":  "c8ba14702801b059c47eeb5f81c5e557f4e1c85a",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_100"
+             },
+    "2:128":  {
+                  "pixsoName":  "Radius/Radius_40",
+                  "key":  "89253f9168f46347a37d6f3e1bd2ebdaa942cdc2",
+                  "type":  "number",
+                  "kotlinName":  "Radius_Radius_40"
+              },
+    "8:108":  {
+                  "pixsoName":  "Headline/Headline S/Size",
+                  "key":  "3ca9039732768683ba207c902803ae9f0abc9806",
+                  "type":  "number",
+                  "kotlinName":  "Headline_Headline_S_Size"
+              },
+    "2:171":  {
+                  "pixsoName":  "Color/Text/text_3_level",
+                  "key":  "423f73dbbbc74531ff1c182ab206a98169de6d96",
+                  "type":  "color",
+                  "kotlinName":  "Color_Text_text_3_level"
+              },
+    "2:42":  {
+                 "pixsoName":  "Color/Error/Error_99",
+                 "key":  "26855dbf67b191c481013935691d6784f5186681",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_99"
+             },
+    "8:127":  {
+                  "pixsoName":  "Body/Body M/Font",
+                  "key":  "d319a975d7442f123b260f0c2f2a0870c3a2cd55",
+                  "type":  "string",
+                  "kotlinName":  "Body_Body_M_Font"
+              },
+    "4:2":  {
+                "pixsoName":  "Border-width/border-width_2",
+                "key":  "7fdb3b18cb38da83fd79df2c8f96108dc5ec2911",
+                "type":  "number",
+                "kotlinName":  "Border_width_border_width_2"
+            },
+    "8:41":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_16",
+                 "key":  "c9ddaa47ec451bbf10770416ad79056dce7ad444",
+                 "type":  "number",
+                 "kotlinName":  "Font_Line_Height_Line_Height_16"
+             },
+    "8:83":  {
+                 "pixsoName":  "Display/Display L/Line_Height",
+                 "key":  "b6790f4749bfb7fd03439bd41843671f9cba0952",
+                 "type":  "number",
+                 "kotlinName":  "Display_Display_L_Line_Height"
+             },
+    "2:109":  {
+                  "pixsoName":  "Space/Space_20",
+                  "key":  "2c226231858d80e5e9c73668f204f96502b4766a",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_20"
+              },
+    "2:189":  {
+                  "pixsoName":  "Color/Transparent/Tint_neutral_24",
+                  "key":  "aeef4fc23710f7548873b3f00a3f1df937b8ac12",
+                  "type":  "color",
+                  "kotlinName":  "Color_Transparent_Tint_neutral_24"
+              },
+    "8:61":  {
+                 "pixsoName":  "Button/Button L/Line_Height",
+                 "key":  "2906b78bb2d4dee7c47fcba9d2c523c3f142a210",
+                 "type":  "number",
+                 "kotlinName":  "Button_Button_L_Line_Height"
+             },
+    "3:8":  {
+                "pixsoName":  "Color/State/pressed_shade_32",
+                "key":  "c232e630541ef18545b998429e79cd03d013c067",
+                "type":  "color",
+                "kotlinName":  "Color_State_pressed_shade_32"
+            },
+    "2:46":  {
+                 "pixsoName":  "Color/Error/Error_80",
+                 "key":  "effbae6b4961c2c0179637c4ab8543b305fa1a84",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_80"
+             },
+    "3:1":  {
+                "pixsoName":  "Color/State/pressed_shade_24",
+                "key":  "c3d65b174d494c2c9d34bf8fcf7015a1ccac0a05",
+                "type":  "color",
+                "kotlinName":  "Color_State_pressed_shade_24"
+            },
+    "8:52":  {
+                 "pixsoName":  "Font/Tracking/Tracking_3",
+                 "key":  "4050244feb777ee7a5d3f3bd67ca4d53b8b30545",
+                 "type":  "number",
+                 "kotlinName":  "Font_Tracking_Tracking_3"
+             },
+    "8:193":  {
+                  "pixsoName":  "Title/Title S/Font",
+                  "key":  "8d846d77b4f2a9c6c28cf4615243b92ba1332dd5",
+                  "type":  "string",
+                  "kotlinName":  "Title_Title_S_Font"
+              },
+    "8:64":  {
+                 "pixsoName":  "Button/Button L/Size",
+                 "key":  "d69455373743a756d41ebff7280630327d4b7d0d",
+                 "type":  "number",
+                 "kotlinName":  "Button_Button_L_Size"
+             },
+    "2:69":  {
+                 "pixsoName":  "Color/Neutral/Neutral_35",
+                 "key":  "d0e91914f65a50f0c1c275284564e3ee73a57c60",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_35"
+             },
+    "8:82":  {
+                 "pixsoName":  "Display/Display L/Weight",
+                 "key":  "92c3235c7b61c1611050cc645bf3b19793f381f5",
+                 "type":  "string",
+                 "kotlinName":  "Display_Display_L_Weight"
+             },
+    "3:10":  {
+                 "pixsoName":  "Color/Transparent/Tint_neutral_32",
+                 "key":  "45509bf4aeb2a4f1c59c477eb8142f9d41915c8f",
+                 "type":  "color",
+                 "kotlinName":  "Color_Transparent_Tint_neutral_32"
+             },
+    "3:5":  {
+                "pixsoName":  "Color/State/on_secondary",
+                "key":  "8621645e5832831533e3c7211d7159ccc9c277cf",
+                "type":  "color",
+                "kotlinName":  "Color_State_on_secondary"
+            },
+    "2:73":  {
+                 "pixsoName":  "Color/Neutral/Neutral_15",
+                 "key":  "2882e2d8fc5f5e3dfb070f51ab9bf01e36bbef67",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_15"
+             },
+    "2:130":  {
+                  "pixsoName":  "Font/Size/Size_16",
+                  "key":  "7d6902a347e1a43f9b18da0c8cb54021b256c3ae",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_16"
+              },
+    "8:85":  {
+                 "pixsoName":  "Display/Display L/Tracking",
+                 "key":  "380580cc4983c02d5b29fa0f45a7a32ee7140886",
+                 "type":  "number",
+                 "kotlinName":  "Display_Display_L_Tracking"
+             },
+    "8:149":  {
+                  "pixsoName":  "Label/Label S/Size",
+                  "key":  "baabbfb6badac69a6da7932498476d54d00c7db9",
+                  "type":  "number",
+                  "kotlinName":  "Label_Label_S_Size"
+              },
+    "2:27":  {
+                 "pixsoName":  "Color/Secondary/Secondary_90",
+                 "key":  "8dc39ca38f5f508543d54466f58001c73ed6346c",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_90"
+             },
+    "2:155":  {
+                  "pixsoName":  "Font/Weight/Regular",
+                  "key":  "f3d4789e0ea62010cd3a2d34ae3061737aaeb60c",
+                  "type":  "string",
+                  "kotlinName":  "Font_Weight_Regular"
+              },
+    "3:6":  {
+                "pixsoName":  "Color/State/on_disabled",
+                "key":  "5f423fce848fc52cd4fb19179d9eef273b4d6660",
+                "type":  "color",
+                "kotlinName":  "Color_State_on_disabled"
+            },
+    "2:44":  {
+                 "pixsoName":  "Color/Error/Error_95",
+                 "key":  "b8552b032f4a83addc75f1427a5eecaebaa9a310",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_95"
+             },
+    "2:22":  {
+                 "pixsoName":  "Color/Primary/Primary_0",
+                 "key":  "b5f45e807f5a8414d38f1264f682e7c7203f255f",
+                 "type":  "color",
+                 "kotlinName":  "Color_Primary_Primary_0"
+             },
+    "2:135":  {
+                  "pixsoName":  "Font/Size/Size_36",
+                  "key":  "a520469691849b14707c8c9f57e70069d73810c1",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_36"
+              },
+    "3:4":  {
+                "pixsoName":  "Color/State/secondary",
+                "key":  "92c87ab2258c836ba244bcc8284ccef5e7caad2b",
+                "type":  "color",
+                "kotlinName":  "Color_State_secondary"
+            },
+    "8:138":  {
+                  "pixsoName":  "Label/Label L/Line_Height",
+                  "key":  "0ad0aa41b382086e87e0a68fca1bb6e66ab63e88",
+                  "type":  "number",
+                  "kotlinName":  "Label_Label_L_Line_Height"
+              },
+    "2:58":  {
+                 "pixsoName":  "Color/Error/Error_0",
+                 "key":  "f77f629cd7b1289caaed9eac39f3e442bb13beaa",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_0"
+             },
+    "8:187":  {
+                  "pixsoName":  "Title/Title L/Tracking",
+                  "key":  "f31bf598412a59b713064bf62000e2c0a101ae41",
+                  "type":  "number",
+                  "kotlinName":  "Title_Title_L_Tracking"
+              },
+    "2:133":  {
+                  "pixsoName":  "Font/Size/Size_28",
+                  "key":  "97ba45b30e021cc1d014ad57a3ce123ae7250d60",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_28"
+              },
+    "2:181":  {
+                  "pixsoName":  "Color/Bg/error_bg",
+                  "key":  "994f81afffc4064ba98d444a1f54226c1945c94c",
+                  "type":  "color",
+                  "kotlinName":  "Color_Bg_error_bg"
+              },
+    "8:70":  {
+                 "pixsoName":  "Button/Button M/Tracking",
+                 "key":  "fedffeb84dcafc0646e137b6352c88bf32160d9f",
+                 "type":  "number",
+                 "kotlinName":  "Button_Button_M_Tracking"
+             },
+    "3:11":  {
+                 "pixsoName":  "Color/Text/text_4_level",
+                 "key":  "c5e32e99eb310e777d143ea8fa6209ec0795d112",
+                 "type":  "color",
+                 "kotlinName":  "Color_Text_text_4_level"
+             },
+    "8:102":  {
+                  "pixsoName":  "Headline/Headline M/Line_Height",
+                  "key":  "1f27427f8c6a3f9b2a23797b74d445668560358d",
+                  "type":  "number",
+                  "kotlinName":  "Headline_Headline_M_Line_Height"
+              },
+    "2:23":  {
+                 "pixsoName":  "Color/Secondary/Secondary_100",
+                 "key":  "606eff01753c7d7401476c70468b9674b1e65627",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_100"
+             },
+    "2:169":  {
+                  "pixsoName":  "Color/Text/text_1_level",
+                  "key":  "7dc5b223afae043e84862b8f069359b07fb0f54c",
+                  "type":  "color",
+                  "kotlinName":  "Color_Text_text_1_level"
+              },
+    "2:32":  {
+                 "pixsoName":  "Color/Secondary/Secondary_40",
+                 "key":  "ad6e060007804f5d3d880d8139b50523b02fffc4",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_40"
+             },
+    "2:34":  {
+                 "pixsoName":  "Color/Secondary/Secondary_30",
+                 "key":  "793eefa072926f417e51e6dd0e80c1f7ac26b772",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_30"
+             },
+    "2:6":  {
+                "pixsoName":  "Color/Primary/Primary_99",
+                "key":  "d946477cefedcdfcdd05836c3b26175051e67a8a",
+                "type":  "color",
+                "kotlinName":  "Color_Primary_Primary_99"
+            },
+    "8:79":  {
+                 "pixsoName":  "Button/Button S/Size",
+                 "key":  "5dc262ad8fa6bb340ff398b015f61c8a5cf43154",
+                 "type":  "number",
+                 "kotlinName":  "Button_Button_S_Size"
+             },
+    "8:103":  {
+                  "pixsoName":  "Headline/Headline M/Size",
+                  "key":  "9dd686c88a44ac9e3d8609e87cd70363eab2f233",
+                  "type":  "number",
+                  "kotlinName":  "Headline_Headline_M_Size"
+              },
+    "8:87":  {
+                 "pixsoName":  "Display/Display M/Size",
+                 "key":  "8b5914d0ee8fe0a4786095106fdf3c3df73914bb",
+                 "type":  "number",
+                 "kotlinName":  "Display_Display_M_Size"
+             },
+    "8:191":  {
+                  "pixsoName":  "Title/Title M/Line_Height",
+                  "key":  "8c2c61f54240b679bbb5afaf9ecf4f5c6d877c13",
+                  "type":  "number",
+                  "kotlinName":  "Title_Title_M_Line_Height"
+              },
+    "2:29":  {
+                 "pixsoName":  "Color/Secondary/Secondary_70",
+                 "key":  "c53f5ee4a4de7df9769bd5c483adb060eb2ad519",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_70"
+             },
+    "8:194":  {
+                  "pixsoName":  "Title/Title S/Weight",
+                  "key":  "3d24cbbf0373943bab062c0ddf13b31f96d6c306",
+                  "type":  "string",
+                  "kotlinName":  "Title_Title_S_Weight"
+              },
+    "2:188":  {
+                  "pixsoName":  "Color/Transparent/Tint_neutral_40",
+                  "key":  "6729135fef3d42bf00a4d6caff5437d40cd827ee",
+                  "type":  "color",
+                  "kotlinName":  "Color_Transparent_Tint_neutral_40"
+              },
+    "2:72":  {
+                 "pixsoName":  "Color/Neutral/Neutral_20",
+                 "key":  "3b67c6e02c76d5cb5cb590d0f0ff95114c32d23f",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_20"
+             },
+    "2:158":  {
+                  "pixsoName":  "Font/Size/Size_14",
+                  "key":  "75a94a6d9b1f9489937337aaa5d652be9f150f53",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_14"
+              },
+    "8:141":  {
+                  "pixsoName":  "Label/Label L/Weight",
+                  "key":  "cbf043835ba2c8b1f50f68ec5f2b474d7c0fbdab",
+                  "type":  "string",
+                  "kotlinName":  "Label_Label_L_Weight"
+              },
+    "8:106":  {
+                  "pixsoName":  "Headline/Headline M/Font",
+                  "key":  "5d8b6bc1bffa092268757bbdbe47c3fd4038393a",
+                  "type":  "string",
+                  "kotlinName":  "Headline_Headline_M_Font"
+              },
+    "2:167":  {
+                  "pixsoName":  "Color/Bg/bg_subtle",
+                  "key":  "18783d5ccd9117903fcef56e222975efc68ec549",
+                  "type":  "color",
+                  "kotlinName":  "Color_Bg_bg_subtle"
+              },
+    "2:56":  {
+                 "pixsoName":  "Color/Error/Error_10",
+                 "key":  "8ee32551aa82ec0e9ac4d88c106e0e0346f148ed",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_10"
+             },
+    "2:129":  {
+                  "pixsoName":  "Radius/Radius_Full",
+                  "key":  "1d23e12ce26002249be6287a0e947650e188c2b9",
+                  "type":  "number",
+                  "kotlinName":  "Radius_Radius_Full"
+              },
+    "8:131":  {
+                  "pixsoName":  "Body/Body S/Weight",
+                  "key":  "838f8cbca8084d700570b2fcc3c1dcc47f6fe93a",
+                  "type":  "string",
+                  "kotlinName":  "Body_Body_S_Weight"
+              },
+    "2:132":  {
+                  "pixsoName":  "Font/Size/Size_24",
+                  "key":  "e1368c91fd7e11605dc2d1c8932a27d86581eb21",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_24"
+              },
+    "2:41":  {
+                 "pixsoName":  "Color/Error/Error_100",
+                 "key":  "7e9f914ea6521cf66dc0884e1204a2da0638a06a",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_100"
+             },
+    "8:150":  {
+                  "pixsoName":  "Label/Label S/Tracking",
+                  "key":  "c5b5d0ca6b0ba901bdb65db7baa0a0ae8dbdca96",
+                  "type":  "number",
+                  "kotlinName":  "Label_Label_S_Tracking"
+              },
+    "2:30":  {
+                 "pixsoName":  "Color/Secondary/Secondary_60",
+                 "key":  "7ffaa2fa6afafa629f741579897e86082d21060b",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_60"
+             },
+    "8:80":  {
+                 "pixsoName":  "Button/Button S/Tracking",
+                 "key":  "b17867a7dca46d7e6e8de9543ea1de09901d2f48",
+                 "type":  "number",
+                 "kotlinName":  "Button_Button_S_Tracking"
+             },
+    "2:108":  {
+                  "pixsoName":  "Space/Space_16",
+                  "key":  "7d0fd485b4c4a233322351415078fe22af1373d7",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_16"
+              },
+    "2:40":  {
+                 "pixsoName":  "Color/Secondary/Secondary_0",
+                 "key":  "b4dc78b1a09c6ee4767ba6bf33c65e587c3b4041",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_0"
+             },
+    "8:110":  {
+                  "pixsoName":  "Headline/Headline S/Weight",
+                  "key":  "575689d9960d0c802ff509e7def5fcf5648665e8",
+                  "type":  "string",
+                  "kotlinName":  "Headline_Headline_S_Weight"
+              },
+    "2:186":  {
+                  "pixsoName":  "Color/Transparent/Tint_color_16",
+                  "key":  "6378b924bb239ad57e2e5482e11e36c15076b5c5",
+                  "type":  "color",
+                  "kotlinName":  "Color_Transparent_Tint_color_16"
+              },
+    "8:151":  {
+                  "pixsoName":  "Label/Label S/Weight",
+                  "key":  "2789c15b7f9558dbd336e09d8cc97b4f965c3871",
+                  "type":  "string",
+                  "kotlinName":  "Label_Label_S_Weight"
+              },
+    "8:188":  {
+                  "pixsoName":  "Title/Title M/Font",
+                  "key":  "c3532c566e2a6040cea9b3a71bed3d7bb27bd28f",
+                  "type":  "string",
+                  "kotlinName":  "Title_Title_M_Font"
+              },
+    "8:143":  {
+                  "pixsoName":  "Label/Label M/Line_Height",
+                  "key":  "97648287efb265ea515893a59fabbaa237e7b86d",
+                  "type":  "number",
+                  "kotlinName":  "Label_Label_M_Line_Height"
+              },
+    "2:35":  {
+                 "pixsoName":  "Color/Secondary/Secondary_25",
+                 "key":  "96bc45c6e8b75689fc9216a6489d7d3a64349c0c",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_25"
+             },
+    "8:68":  {
+                 "pixsoName":  "Button/Button M/Line_Height",
+                 "key":  "cb9ed965e67021f48cf261ae73b443ef5d52e159",
+                 "type":  "number",
+                 "kotlinName":  "Button_Button_M_Line_Height"
+             },
+    "2:54":  {
+                 "pixsoName":  "Color/Error/Error_20",
+                 "key":  "f6239080077dd9ee2ec10039b1f04f09494c00c8",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_20"
+             },
+    "2:163":  {
+                  "pixsoName":  "Font/Weight/Medium",
+                  "key":  "d98b7e2cfe7c4b0976202af8217a3bff9c45a607",
+                  "type":  "string",
+                  "kotlinName":  "Font_Weight_Medium"
+              },
+    "2:112":  {
+                  "pixsoName":  "Space/Space_32",
+                  "key":  "0853baaac479caea4b537793990a3b51725d3577",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_32"
+              },
+    "2:140":  {
+                  "pixsoName":  "Font/Size/Size_56",
+                  "key":  "5a5501652eea35330a24d0fade5862be6af8a684",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_56"
+              },
+    "2:70":  {
+                 "pixsoName":  "Color/Neutral/Neutral_30",
+                 "key":  "cf7741e4267785c9fd1a1545a513499e50f6804b",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_30"
+             },
+    "8:47":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_40",
+                 "key":  "dfe986632e4ebde1819497cca7e1dce9e29d43c1",
+                 "type":  "number",
+                 "kotlinName":  "Font_Line_Height_Line_Height_40"
+             },
+    "2:136":  {
+                  "pixsoName":  "Font/Size/Size_40",
+                  "key":  "e54869ab686727a5a1510a0239a997c2a9adf3b5",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_40"
+              },
+    "2:68":  {
+                 "pixsoName":  "Color/Neutral/Neutral_40",
+                 "key":  "59f49c023f1dd5f6c461853f0c32e7abfe0c7811",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_40"
+             },
+    "2:190":  {
+                  "pixsoName":  "Color/Transparent/Tint_neutral_16",
+                  "key":  "8be317e3f8c1f4396e87d08a5f74947c1f60e16f",
+                  "type":  "color",
+                  "kotlinName":  "Color_Transparent_Tint_neutral_16"
+              },
+    "2:105":  {
+                  "pixsoName":  "Space/Space_4",
+                  "key":  "f6c038cfed630ef90617c87ef9259ab2d349812e",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_4"
+              },
+    "8:90":  {
+                 "pixsoName":  "Display/Display M/Font",
+                 "key":  "c46105e5ce6665e5c95915fa10e66b0d87f913c0",
+                 "type":  "string",
+                 "kotlinName":  "Display_Display_M_Font"
+             },
+    "2:31":  {
+                 "pixsoName":  "Color/Secondary/Secondary_50",
+                 "key":  "2d2a7ffb14b5c5a4e7d3ae8597e1d5197e348b6b",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_50"
+             },
+    "8:92":  {
+                 "pixsoName":  "Display/Display S/Weight",
+                 "key":  "e3acfa8d1dbbe4ac79ede07cb239d9988af3fe15",
+                 "type":  "string",
+                 "kotlinName":  "Display_Display_S_Weight"
+             },
+    "8:69":  {
+                 "pixsoName":  "Button/Button M/Size",
+                 "key":  "a98fde847b808b660092b5a5fb13e2f72f5a2126",
+                 "type":  "number",
+                 "kotlinName":  "Button_Button_M_Size"
+             },
+    "8:55":  {
+                 "pixsoName":  "Font/Tracking/Tracking_6",
+                 "key":  "007809290f7b3b37665191896254a4348751958f",
+                 "type":  "number",
+                 "kotlinName":  "Font_Tracking_Tracking_6"
+             },
+    "2:184":  {
+                  "pixsoName":  "Color/Transparent/Tint_color_40",
+                  "key":  "e95ae44c36e569a188e3e20cabd2f48ae06dbad5",
+                  "type":  "color",
+                  "kotlinName":  "Color_Transparent_Tint_color_40"
+              },
+    "8:95":  {
+                 "pixsoName":  "Display/Display S/Tracking",
+                 "key":  "76a41c611703f1802b57fdd48aae5992bad3b9de",
+                 "type":  "number",
+                 "kotlinName":  "Display_Display_S_Tracking"
+             },
+    "3:7":  {
+                "pixsoName":  "Color/State/disabled",
+                "key":  "f12d5cd3172f893e8c4b566b277cda192dd345a0",
+                "type":  "color",
+                "kotlinName":  "Color_State_disabled"
+            },
+    "2:37":  {
+                 "pixsoName":  "Color/Secondary/Secondary_15",
+                 "key":  "232407b52089a11b0b166d5844c3f3b20c951cc6",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_15"
+             },
+    "2:134":  {
+                  "pixsoName":  "Font/Size/Size_32",
+                  "key":  "216fe74b4e69b9f517098e2c8120f42af809a7ce",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_32"
+              },
+    "5:5":  {
+                "pixsoName":  "Color/Border/border_shade_16",
+                "key":  "e7513ca37945bee06951e89a7b9fdf15810a594d",
+                "type":  "color",
+                "kotlinName":  "Color_Border_border_shade_16"
+            },
+    "8:147":  {
+                  "pixsoName":  "Label/Label M/Font",
+                  "key":  "32ed39ae78a3cdbc4770c7401a08a7531bcd0d48",
+                  "type":  "string",
+                  "kotlinName":  "Label_Label_M_Font"
+              },
+    "5:4":  {
+                "pixsoName":  "Color/Border/border_shade_8",
+                "key":  "52f75a0cb9e1dda7b052589d0f025919cc63aa24",
+                "type":  "color",
+                "kotlinName":  "Color_Border_border_shade_8"
+            },
+    "2:123":  {
+                  "pixsoName":  "Radius/Radius_20",
+                  "key":  "df7e75cf08dee957af656fe55da71498fe8ad69b",
+                  "type":  "number",
+                  "kotlinName":  "Radius_Radius_20"
+              },
+    "2:178":  {
+                  "pixsoName":  "Color/State/primary",
+                  "key":  "6489aaf796a51533e93c7808483f27877705f666",
+                  "type":  "color",
+                  "kotlinName":  "Color_State_primary"
+              },
+    "2:176":  {
+                  "pixsoName":  "Color/Border/border_focus",
+                  "key":  "2bdfa3b7852faecd8fd0b87c8c5dc16e388a72ca",
+                  "type":  "color",
+                  "kotlinName":  "Color_Border_border_focus"
+              },
+    "8:91":  {
+                 "pixsoName":  "Display/Display S/Font",
+                 "key":  "5d1235733b053f56e5ac87343b49a43d77027e71",
+                 "type":  "string",
+                 "kotlinName":  "Display_Display_S_Font"
+             },
+    "8:105":  {
+                  "pixsoName":  "Headline/Headline M/Weight",
+                  "key":  "08c2fa2400f41a05fdc971e5e76e8b20186986f4",
+                  "type":  "string",
+                  "kotlinName":  "Headline_Headline_M_Weight"
+              },
+    "2:53":  {
+                 "pixsoName":  "Color/Error/Error_25",
+                 "key":  "07b350cbdaf9f7a2e0cc174787b31f36e9c077f8",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_25"
+             },
+    "2:5":  {
+                "pixsoName":  "Color/Primary/Primary_100",
+                "key":  "01614ac38a5e990d3a7a4d88d9388032692ff663",
+                "type":  "color",
+                "kotlinName":  "Color_Primary_Primary_100"
+            },
+    "8:86":  {
+                 "pixsoName":  "Display/Display M/Line_Height",
+                 "key":  "1f88575a9f48923afd49ba04c65f5bfd708f1df3",
+                 "type":  "number",
+                 "kotlinName":  "Display_Display_M_Line_Height"
+             },
+    "2:28":  {
+                 "pixsoName":  "Color/Secondary/Secondary_80",
+                 "key":  "36f1004c20d49629100190e09eca3a7cfc67dd8e",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_80"
+             },
+    "2:120":  {
+                  "pixsoName":  "Radius/Radius_12",
+                  "key":  "c86f4aebba44b4d2424f018b7447572638e7adcd",
+                  "type":  "number",
+                  "kotlinName":  "Radius_Radius_12"
+              },
+    "2:39":  {
+                 "pixsoName":  "Color/Secondary/Secondary_5",
+                 "key":  "9ffaf5a428d59bf2c31153f2e8382161abc0988b",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_5"
+             },
+    "2:119":  {
+                  "pixsoName":  "Radius/Radius_8",
+                  "key":  "fa9b65ec6ee5273936295574713cc88f7ec7319b",
+                  "type":  "number",
+                  "kotlinName":  "Radius_Radius_8"
+              },
+    "2:111":  {
+                  "pixsoName":  "Space/Space_28",
+                  "key":  "186fb55cb10b6a76410070bd31455510da0552f6",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_28"
+              },
+    "8:121":  {
+                  "pixsoName":  "Body/Body L/Weight",
+                  "key":  "5f77e269a21f2b12cb1b7b070400730034b010ed",
+                  "type":  "string",
+                  "kotlinName":  "Body_Body_L_Weight"
+              },
+    "2:57":  {
+                 "pixsoName":  "Color/Error/Error_5",
+                 "key":  "4e4579777986505b2b3d680d6e3c9babe1933e8b",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_5"
+             },
+    "2:113":  {
+                  "pixsoName":  "Space/Space_36",
+                  "key":  "219637ba242925a8436fc6a898bbae3823848a18",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_36"
+              },
+    "2:64":  {
+                 "pixsoName":  "Color/Neutral/Neutral_80",
+                 "key":  "4177d5571bd7b9666da4bdb72a14345a06178989",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_80"
+             },
+    "8:44":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_24",
+                 "key":  "8764e1970e54de89fd1b6430ad3bb366e52c99bc",
+                 "type":  "number",
+                 "kotlinName":  "Font_Line_Height_Line_Height_24"
+             },
+    "8:128":  {
+                  "pixsoName":  "Body/Body S/Line_Height",
+                  "key":  "9853d246e034fccaff078859d02835a4decfce3f",
+                  "type":  "number",
+                  "kotlinName":  "Body_Body_S_Line_Height"
+              },
+    "8:40":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_20",
+                 "key":  "82026b0a28026c6168f9ce7ed919a942b92f860c",
+                 "type":  "number",
+                 "kotlinName":  "Font_Line_Height_Line_Height_20"
+             },
+    "8:118":  {
+                  "pixsoName":  "Body/Body L/Line_Height",
+                  "key":  "ebb7cc1a62afd0eb7fe8311739afbc18f80ef74c",
+                  "type":  "number",
+                  "kotlinName":  "Body_Body_L_Line_Height"
+              },
+    "2:12":  {
+                 "pixsoName":  "Color/Primary/Primary_60",
+                 "key":  "b9e877d0efe5bc4d2ae8f5b12c8d9f4468c09403",
+                 "type":  "color",
+                 "kotlinName":  "Color_Primary_Primary_60"
+             },
+    "2:118":  {
+                  "pixsoName":  "Radius/Radius_4",
+                  "key":  "fb9e9580c89fb09ebc6f3cc2c89d9621c62eeef3",
+                  "type":  "number",
+                  "kotlinName":  "Radius_Radius_4"
+              },
+    "8:88":  {
+                 "pixsoName":  "Display/Display M/Tracking",
+                 "key":  "fa4dd0a269b77c1c2dcbf7d0f9e3bf1cb6aa115e",
+                 "type":  "number",
+                 "kotlinName":  "Display_Display_M_Tracking"
+             },
+    "8:192":  {
+                  "pixsoName":  "Title/Title M/Tracking",
+                  "key":  "be3100c4583f69598b8e08ac5c2c4333fb5783a3",
+                  "type":  "number",
+                  "kotlinName":  "Title_Title_M_Tracking"
+              },
+    "8:53":  {
+                 "pixsoName":  "Font/Tracking/Tracking_4",
+                 "key":  "b3ad5c023f841d7fda345a59123bfc5fa4b93fb1",
+                 "type":  "number",
+                 "kotlinName":  "Font_Tracking_Tracking_4"
+             },
+    "2:187":  {
+                  "pixsoName":  "Color/Transparent/Tint_color_8",
+                  "key":  "1ca5e5cd24aa335c0566ec9ab6a667c3c1f5dcb7",
+                  "type":  "color",
+                  "kotlinName":  "Color_Transparent_Tint_color_8"
+              },
+    "2:141":  {
+                  "pixsoName":  "Font/Font_Family",
+                  "key":  "886b0ab8ee0e095df67efa059a4cb449ca046719",
+                  "type":  "string",
+                  "kotlinName":  "Font_Font_Family"
+              },
+    "8:129":  {
+                  "pixsoName":  "Body/Body S/Size",
+                  "key":  "ce4dd380699c2111e98f91817372d76b642b4b00",
+                  "type":  "number",
+                  "kotlinName":  "Body_Body_S_Size"
+              },
+    "4:7":  {
+                "pixsoName":  "Color/Bg/bg_primary_light",
+                "key":  "355d4a225e40e454603a0c8b67e3b181f6c31970",
+                "type":  "color",
+                "kotlinName":  "Color_Bg_bg_primary_light"
+            },
+    "8:144":  {
+                  "pixsoName":  "Label/Label M/Size",
+                  "key":  "17aef94815a046bcedc8298c289e328a0e824daf",
+                  "type":  "number",
+                  "kotlinName":  "Label_Label_M_Size"
+              },
+    "2:55":  {
+                 "pixsoName":  "Color/Error/Error_15",
+                 "key":  "8ef211410a2c5544107534f80c4db32670f09407",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_15"
+             },
+    "8:123":  {
+                  "pixsoName":  "Body/Body M/Line_Height",
+                  "key":  "271b330bab480ae6edb837abd34fa0375c2d2bcc",
+                  "type":  "number",
+                  "kotlinName":  "Body_Body_M_Line_Height"
+              },
+    "2:124":  {
+                  "pixsoName":  "Radius/Radius_24",
+                  "key":  "92645b9cec444a80961a983d53378667be4ff3fa",
+                  "type":  "number",
+                  "kotlinName":  "Radius_Radius_24"
+              },
+    "2:173":  {
+                  "pixsoName":  "Color/Text/text_link",
+                  "key":  "f63a7677ca8668c3e810a0c601b989b0830eda06",
+                  "type":  "color",
+                  "kotlinName":  "Color_Text_text_link"
+              },
+    "8:46":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_32",
+                 "key":  "2bed74d4522073c7e8b99795ef99a5ab2204c6f7",
+                 "type":  "number",
+                 "kotlinName":  "Font_Line_Height_Line_Height_32"
+             },
+    "2:51":  {
+                 "pixsoName":  "Color/Error/Error_35",
+                 "key":  "d895a420e59fbd8b168a3e660601ffcfe0784586",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_35"
+             },
+    "8:116":  {
+                  "pixsoName":  "Headline/Headline XS/Weight",
+                  "key":  "22eea0d06fd25c390179b8419598547b4239d0eb",
+                  "type":  "string",
+                  "kotlinName":  "Headline_Headline_XS_Weight"
+              },
+    "2:122":  {
+                  "pixsoName":  "Radius/Radius_16",
+                  "key":  "3a306e660b343ffb7e059f338bbfcf57d4a978fe",
+                  "type":  "number",
+                  "kotlinName":  "Radius_Radius_16"
+              },
+    "2:164":  {
+                  "pixsoName":  "Font/Weight/SemiBold",
+                  "key":  "f3e73e910f300ad2743e06611d576b53636ba377",
+                  "type":  "string",
+                  "kotlinName":  "Font_Weight_SemiBold"
+              },
+    "8:189":  {
+                  "pixsoName":  "Title/Title M/Weight",
+                  "key":  "7905425df9d0564fa07ba0ac1debc5553fd84d0e",
+                  "type":  "string",
+                  "kotlinName":  "Title_Title_M_Weight"
+              },
+    "2:172":  {
+                  "pixsoName":  "Color/Text/text_inverse",
+                  "key":  "af079ff157b7d347e3f2c3f5e5c4678ab0382832",
+                  "type":  "color",
+                  "kotlinName":  "Color_Text_text_inverse"
+              },
+    "2:61":  {
+                 "pixsoName":  "Color/Neutral/Neutral_98",
+                 "key":  "c9712f9107bc8e7c1bc639fb9a378a700bb1ca97",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_98"
+             },
+    "2:185":  {
+                  "pixsoName":  "Color/Transparent/Tint_color_24",
+                  "key":  "810b8b00fc5e27c1048de13233935b59342ecd05",
+                  "type":  "color",
+                  "kotlinName":  "Color_Transparent_Tint_color_24"
+              },
+    "8:45":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_28",
+                 "key":  "a5b053ca99a9cee67f4e53fb30bc0983bf3eb377",
+                 "type":  "number",
+                 "kotlinName":  "Font_Line_Height_Line_Height_28"
+             },
+    "8:96":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_44",
+                 "key":  "1c8b303e9b253794deedd56f3307472302d54f3e",
+                 "type":  "number",
+                 "kotlinName":  "Font_Line_Height_Line_Height_44"
+             },
+    "2:38":  {
+                 "pixsoName":  "Color/Secondary/Secondary_10",
+                 "key":  "626c9530e07608f06ef3e27c3b9776f2ed32f14f",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_10"
+             },
+    "8:81":  {
+                 "pixsoName":  "Display/Display L/Font",
+                 "key":  "edcbe0784f89355a9f22520e7cd0b6f6bc82d330",
+                 "type":  "string",
+                 "kotlinName":  "Display_Display_L_Font"
+             },
+    "2:107":  {
+                  "pixsoName":  "Space/Space_12",
+                  "key":  "eced21136b640fa9c9ead5f06fd4db88a33ffb5d",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_12"
+              },
+    "2:126":  {
+                  "pixsoName":  "Radius/Radius_32",
+                  "key":  "463de803d6ef6cef086ba6886a8d391a5a3a7a34",
+                  "type":  "number",
+                  "kotlinName":  "Radius_Radius_32"
+              },
+    "8:190":  {
+                  "pixsoName":  "Title/Title M/Size",
+                  "key":  "12d0f28ab29313187fc1a8b00b21b528646bfd14",
+                  "type":  "number",
+                  "kotlinName":  "Title_Title_M_Size"
+              },
+    "8:195":  {
+                  "pixsoName":  "Title/Title S/Size",
+                  "key":  "9fd8f906e200cb653803e1f5b49b7b5b3f9b3395",
+                  "type":  "number",
+                  "kotlinName":  "Title_Title_S_Size"
+              },
+    "8:104":  {
+                  "pixsoName":  "Headline/Headline M/Tracking",
+                  "key":  "7926c3d0c54d5851edb63f22a80ddf6afe08e44e",
+                  "type":  "number",
+                  "kotlinName":  "Headline_Headline_M_Tracking"
+              },
+    "8:113":  {
+                  "pixsoName":  "Headline/Headline XS/Line_Height",
+                  "key":  "227ec819441fa3eb5135331d157d0fba3ecebcf5",
+                  "type":  "number",
+                  "kotlinName":  "Headline_Headline_XS_Line_Height"
+              },
+    "2:65":  {
+                 "pixsoName":  "Color/Neutral/Neutral_70",
+                 "key":  "4b11f3c623a773ea5eacc380470eff5de6e89a09",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_70"
+             },
+    "2:170":  {
+                  "pixsoName":  "Color/Text/text_2_level",
+                  "key":  "d86fb9c6d09cb014270454929e24495ed108b74c",
+                  "type":  "color",
+                  "kotlinName":  "Color_Text_text_2_level"
+              },
+    "2:177":  {
+                  "pixsoName":  "Color/Border/border_error",
+                  "key":  "9f6029bff7b2b33c6544aa4f756c3b57c897a560",
+                  "type":  "color",
+                  "kotlinName":  "Color_Border_border_error"
+              },
+    "8:54":  {
+                 "pixsoName":  "Font/Tracking/Tracking_5",
+                 "key":  "ff1bc23afd60272f56724f5128c289f20d157de9",
+                 "type":  "number",
+                 "kotlinName":  "Font_Tracking_Tracking_5"
+             },
+    "8:119":  {
+                  "pixsoName":  "Body/Body L/Size",
+                  "key":  "33c91268ea906a79135f301c01648879de54dea3",
+                  "type":  "number",
+                  "kotlinName":  "Body_Body_L_Size"
+              },
+    "2:21":  {
+                 "pixsoName":  "Color/Primary/Primary_5",
+                 "key":  "4e470d14dd388c851bcdf8959dd093a5da2201b5",
+                 "type":  "color",
+                 "kotlinName":  "Color_Primary_Primary_5"
+             },
+    "8:132":  {
+                  "pixsoName":  "Body/Body S/Font",
+                  "key":  "15df3869bbe9708e7b05cbcad4a1723ce27b12cb",
+                  "type":  "string",
+                  "kotlinName":  "Body_Body_S_Font"
+              },
+    "2:63":  {
+                 "pixsoName":  "Color/Neutral/Neutral_90",
+                 "key":  "7a6e6b7d7e7c0f3bd2f9d491e0ea576d18c22d3c",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_90"
+             },
+    "2:192":  {
+                  "pixsoName":  "Color/Transparent/Tint_neutral_64",
+                  "key":  "1497d62dd3fb2422e1aa1ac4929870dca36d9a91",
+                  "type":  "color",
+                  "kotlinName":  "Color_Transparent_Tint_neutral_64"
+              },
+    "8:93":  {
+                 "pixsoName":  "Display/Display S/Size",
+                 "key":  "bb67670c590fd2c8993340e2fd24c9e87dbcaae3",
+                 "type":  "number",
+                 "kotlinName":  "Display_Display_S_Size"
+             },
+    "8:98":  {
+                 "pixsoName":  "Headline/Headline L/Size",
+                 "key":  "e0546b28706b6157f8fb305ab405563716a02a3c",
+                 "type":  "number",
+                 "kotlinName":  "Headline_Headline_L_Size"
+             },
+    "2:17":  {
+                 "pixsoName":  "Color/Primary/Primary_25",
+                 "key":  "37322f22d4a6c4d689b95f88c69c1ad25c3f34d8",
+                 "type":  "color",
+                 "kotlinName":  "Color_Primary_Primary_25"
+             },
+    "2:19":  {
+                 "pixsoName":  "Color/Primary/Primary_15",
+                 "key":  "83dc30ef90a870850a820a1ddd864dc12955b190",
+                 "type":  "color",
+                 "kotlinName":  "Color_Primary_Primary_15"
+             },
+    "4:4":  {
+                "pixsoName":  "Border-width/border-width_8",
+                "key":  "02eef9315b52434cdc4a1ec8e6c52a724fda94ca",
+                "type":  "number",
+                "kotlinName":  "Border_width_border_width_8"
+            },
+    "4:10":  {
+                 "pixsoName":  "Color/State/on_tertiary",
+                 "key":  "578c2b71266d69bbad30ef6e33c6b47546c16ed6",
+                 "type":  "color",
+                 "kotlinName":  "Color_State_on_tertiary"
+             },
+    "8:97":  {
+                 "pixsoName":  "Headline/Headline L/Line_Height",
+                 "key":  "d4654675401710b10a187aaba483bf37d4a48c5d",
+                 "type":  "number",
+                 "kotlinName":  "Headline_Headline_L_Line_Height"
+             },
+    "2:121":  {
+                  "pixsoName":  "Radius/Radius_None",
+                  "key":  "4d86bc7071daf83053db9196dc5bb8b8a258ec70",
+                  "type":  "number",
+                  "kotlinName":  "Radius_Radius_None"
+              },
+    "2:67":  {
+                 "pixsoName":  "Color/Neutral/Neutral_50",
+                 "key":  "0723ab573b3affcf67a023df7d6fdce9707d55f6",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_50"
+             },
+    "2:179":  {
+                  "pixsoName":  "Color/State/on_primary",
+                  "key":  "955171c6e3f4d075b0b858c3a62bfb2ebbeddc47",
+                  "type":  "color",
+                  "kotlinName":  "Color_State_on_primary"
+              },
+    "2:8":  {
+                "pixsoName":  "Color/Primary/Primary_95",
+                "key":  "a2187db1e0b8cb28702b0e6abe7a3ab0c5fb28bd",
+                "type":  "color",
+                "kotlinName":  "Color_Primary_Primary_95"
+            },
+    "8:197":  {
+                  "pixsoName":  "Title/Title S/Tracking",
+                  "key":  "dec55635c9db59fa5dc13e5d790358cfa007cecb",
+                  "type":  "number",
+                  "kotlinName":  "Title_Title_S_Tracking"
+              },
+    "2:13":  {
+                 "pixsoName":  "Color/Primary/Primary_50",
+                 "key":  "8a92e083e2ef611f186f4333bdf3fac9d503e884",
+                 "type":  "color",
+                 "kotlinName":  "Color_Primary_Primary_50"
+             },
+    "2:137":  {
+                  "pixsoName":  "Font/Size/Size_44",
+                  "key":  "cc4e804d74550c7b9b76d834f0dcf33eae9c971c",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_44"
+              },
+    "8:140":  {
+                  "pixsoName":  "Label/Label L/Tracking",
+                  "key":  "a5dddf85dcebe8de2a1321724bd56cb3c9e61138",
+                  "type":  "number",
+                  "kotlinName":  "Label_Label_L_Tracking"
+              },
+    "8:43":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_52",
+                 "key":  "ba34a9bb38da6833b6807a4ec52c673acbfac377",
+                 "type":  "number",
+                 "kotlinName":  "Font_Line_Height_Line_Height_52"
+             },
+    "2:15":  {
+                 "pixsoName":  "Color/Primary/Primary_35",
+                 "key":  "a2eba0635577e26cf15ee971062cb58df7771892",
+                 "type":  "color",
+                 "kotlinName":  "Color_Primary_Primary_35"
+             },
+    "2:116":  {
+                  "pixsoName":  "Space/Space_52",
+                  "key":  "3abd0f533d8e151ec86daa196cb0700cbb77f50d",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_52"
+              },
+    "4:6":  {
+                "pixsoName":  "Border-width/border-width_24",
+                "key":  "c52d72973ce25960f30d28ad3e91bd33fccb2e5a",
+                "type":  "number",
+                "kotlinName":  "Border_width_border_width_24"
+            },
+    "8:145":  {
+                  "pixsoName":  "Label/Label M/Tracking",
+                  "key":  "14be8c05d411d9066ad66e2160526ca0bbabdc5a",
+                  "type":  "number",
+                  "kotlinName":  "Label_Label_M_Tracking"
+              },
+    "8:142":  {
+                  "pixsoName":  "Label/Label L/Font",
+                  "key":  "2e41cb0aad74638b638d314ec6e4db8c27cd7429",
+                  "type":  "string",
+                  "kotlinName":  "Label_Label_L_Font"
+              },
+    "2:125":  {
+                  "pixsoName":  "Radius/Radius_28",
+                  "key":  "f4fe316f85cd95ac8cfda1d27cd627115a9207c2",
+                  "type":  "number",
+                  "kotlinName":  "Radius_Radius_28"
+              },
+    "2:48":  {
+                 "pixsoName":  "Color/Error/Error_60",
+                 "key":  "2b2468d6b22d9d5361b19b3ce4034700b75e2ff8",
+                 "type":  "color",
+                 "kotlinName":  "Color_Error_Error_60"
+             },
+    "8:139":  {
+                  "pixsoName":  "Label/Label L/Size",
+                  "key":  "aad270ed8dfdd2a524c4162899802c12c67b0d5d",
+                  "type":  "number",
+                  "kotlinName":  "Label_Label_L_Size"
+              },
+    "2:156":  {
+                  "pixsoName":  "Font/Size/Size_11",
+                  "key":  "8038d084a083a100190e213ad85b9a51a0b34010",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_11"
+              },
+    "8:126":  {
+                  "pixsoName":  "Body/Body M/Weight",
+                  "key":  "d1b585f679447fbb19dda2843db042066fe60a95",
+                  "type":  "string",
+                  "kotlinName":  "Body_Body_M_Weight"
+              },
+    "2:16":  {
+                 "pixsoName":  "Color/Primary/Primary_30",
+                 "key":  "164fbea12d4dc588fb217a44ac43429adc252bea",
+                 "type":  "color",
+                 "kotlinName":  "Color_Primary_Primary_30"
+             },
+    "8:115":  {
+                  "pixsoName":  "Headline/Headline XS/Tracking",
+                  "key":  "72e77b04b9dcf49924c6b8f4c94ac5d74aa91bea",
+                  "type":  "number",
+                  "kotlinName":  "Headline_Headline_XS_Tracking"
+              },
+    "2:11":  {
+                 "pixsoName":  "Color/Primary/Primary_70",
+                 "key":  "10685c7ba798035f25d624f344dfec344d8b2378",
+                 "type":  "color",
+                 "kotlinName":  "Color_Primary_Primary_70"
+             },
+    "8:109":  {
+                  "pixsoName":  "Headline/Headline S/Tracking",
+                  "key":  "11df35305432552693bd1011fa1e964b9aaf6202",
+                  "type":  "number",
+                  "kotlinName":  "Headline_Headline_S_Tracking"
+              },
+    "2:165":  {
+                  "pixsoName":  "Color/Bg/bg_canvas",
+                  "key":  "68320d93fe589323918a1d652d585b0e48f9c638",
+                  "type":  "color",
+                  "kotlinName":  "Color_Bg_bg_canvas"
+              },
+    "8:100":  {
+                  "pixsoName":  "Headline/Headline L/Weight",
+                  "key":  "f8c7f628f72a797c7fe2f38d93f53dbebc6c4c78",
+                  "type":  "string",
+                  "kotlinName":  "Headline_Headline_L_Weight"
+              },
+    "8:89":  {
+                 "pixsoName":  "Display/Display M/Weight",
+                 "key":  "a925b2fbb0ae459fb5e5a41ec6bb8b7be1c40bdd",
+                 "type":  "string",
+                 "kotlinName":  "Display_Display_M_Weight"
+             },
+    "2:20":  {
+                 "pixsoName":  "Color/Primary/Primary_10",
+                 "key":  "076a4b15c4c89d5c51fe029c5167b0b75d933f0f",
+                 "type":  "color",
+                 "kotlinName":  "Color_Primary_Primary_10"
+             },
+    "8:50":  {
+                 "pixsoName":  "Font/Tracking/Tracking_1",
+                 "key":  "aac41d19f861eda546e4b495efae8b23eab14e3a",
+                 "type":  "number",
+                 "kotlinName":  "Font_Tracking_Tracking_1"
+             },
+    "2:193":  {
+                  "pixsoName":  "Color/Transparent/Tint_neutral_4",
+                  "key":  "b27b40f9eab937636ce575157989e75d9f36bdd8",
+                  "type":  "color",
+                  "kotlinName":  "Color_Transparent_Tint_neutral_4"
+              },
+    "2:71":  {
+                 "pixsoName":  "Color/Neutral/Neutral_25",
+                 "key":  "e762dc7b7a2f13d3f5702faceb366421ea17c9dd",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_25"
+             },
+    "8:76":  {
+                 "pixsoName":  "Button/Button S/Font",
+                 "key":  "13d6eb808d28281c0eeda8d781731ba934121471",
+                 "type":  "string",
+                 "kotlinName":  "Button_Button_S_Font"
+             },
+    "11:2":  {
+                 "pixsoName":  "Space/Space_88",
+                 "key":  "fb79bf69bc4bad426498079e0e292268c8358998",
+                 "type":  "number",
+                 "kotlinName":  "Space_Space_88"
+             },
+    "8:130":  {
+                  "pixsoName":  "Body/Body S/Tracking",
+                  "key":  "6c5fa3cb586783bbdccfcddd5bf68638089e67ce",
+                  "type":  "number",
+                  "kotlinName":  "Body_Body_S_Tracking"
+              },
+    "8:62":  {
+                 "pixsoName":  "Button/Button L/Font",
+                 "key":  "37e37a08e09c6c67fb906563fcd8fd80a5b4b9ae",
+                 "type":  "string",
+                 "kotlinName":  "Button_Button_L_Font"
+             },
+    "4:8":  {
+                "pixsoName":  "Color/Border/border_primary",
+                "key":  "228f87bc0384845188b50d84b9b774c718ea6ebb",
+                "type":  "color",
+                "kotlinName":  "Color_Border_border_primary"
+            },
+    "2:106":  {
+                  "pixsoName":  "Space/Space_8",
+                  "key":  "f7fa9c8d6890cf2b66a34e138d261c03595202d8",
+                  "type":  "number",
+                  "kotlinName":  "Space_Space_8"
+              },
+    "2:25":  {
+                 "pixsoName":  "Color/Secondary/Secondary_98",
+                 "key":  "4c0f8cf5d862950f377cde874c7011a7dfd3ef4a",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_98"
+             },
+    "2:127":  {
+                  "pixsoName":  "Radius/Radius_36",
+                  "key":  "ee8d7121c577a320b7c58586e3d0ea80d12386d1",
+                  "type":  "number",
+                  "kotlinName":  "Radius_Radius_36"
+              },
+    "8:99":  {
+                 "pixsoName":  "Headline/Headline L/Tracking",
+                 "key":  "e87738d2cb516184b28dfc1fe06bc64e20c63c59",
+                 "type":  "number",
+                 "kotlinName":  "Headline_Headline_L_Tracking"
+             },
+    "2:36":  {
+                 "pixsoName":  "Color/Secondary/Secondary_20",
+                 "key":  "01823a957590d89fbbd161fe41ae1d7ace0b4e96",
+                 "type":  "color",
+                 "kotlinName":  "Color_Secondary_Secondary_20"
+             },
+    "8:112":  {
+                  "pixsoName":  "Font/Line_Height/Line_Height_36",
+                  "key":  "2c68f587bc651e49af50a0848f93c4597455fc72",
+                  "type":  "number",
+                  "kotlinName":  "Font_Line_Height_Line_Height_36"
+              },
+    "8:122":  {
+                  "pixsoName":  "Body/Body L/Font",
+                  "key":  "b9f3147894821d419aef151cc86d1009a17efb71",
+                  "type":  "string",
+                  "kotlinName":  "Body_Body_L_Font"
+              },
+    "3:2":  {
+                "pixsoName":  "Color/Bg/bg_shade_primary",
+                "key":  "0771457da2cf6f8c0cf594b33f92c36776cdfacf",
+                "type":  "color",
+                "kotlinName":  "Color_Bg_bg_shade_primary"
+            },
+    "2:75":  {
+                 "pixsoName":  "Color/Neutral/Neutral_5",
+                 "key":  "3e1a1f61ca51664cf2951440f8d2266e3746880e",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_5"
+             },
+    "2:131":  {
+                  "pixsoName":  "Font/Size/Size_20",
+                  "key":  "7ea354721cf0216d74bfcd36f60531325d899eb4",
+                  "type":  "number",
+                  "kotlinName":  "Font_Size_Size_20"
+              },
+    "8:107":  {
+                  "pixsoName":  "Headline/Headline S/Line_Height",
+                  "key":  "9c69482cf15f8edf0d6b56e17fbdd87ceee5feae",
+                  "type":  "number",
+                  "kotlinName":  "Headline_Headline_S_Line_Height"
+              },
+    "8:49":  {
+                 "pixsoName":  "Font/Tracking/Tracking_0",
+                 "key":  "01854e7655a8e3e3701abd360279e876bb568107",
+                 "type":  "number",
+                 "kotlinName":  "Font_Tracking_Tracking_0"
+             },
+    "8:185":  {
+                  "pixsoName":  "Title/Title L/Size",
+                  "key":  "f4484807de298c4346219758a322ef2841a01bd1",
+                  "type":  "number",
+                  "kotlinName":  "Title_Title_L_Size"
+              },
+    "2:62":  {
+                 "pixsoName":  "Color/Neutral/Neutral_95",
+                 "key":  "22949dce087af6cede6029a46b997ee67df9e146",
+                 "type":  "color",
+                 "kotlinName":  "Color_Neutral_Neutral_95"
+             },
+    "2:191":  {
+                  "pixsoName":  "Color/Transparent/Tint_neutral_8",
+                  "key":  "a74a745119ea294627bf11d0c0977d73724cfec0",
+                  "type":  "color",
+                  "kotlinName":  "Color_Transparent_Tint_neutral_8"
+              },
+    "8:125":  {
+                  "pixsoName":  "Body/Body M/Tracking",
+                  "key":  "40dc20ae8cebee5abaffb7fcbde1bb61211c1cb8",
+                  "type":  "number",
+                  "kotlinName":  "Body_Body_M_Tracking"
+              },
+    "4:1":  {
+                "pixsoName":  "Border-width/border-width_1",
+                "key":  "834e20cf66f6cf4d8785f93341ab0ebd2b459b0f",
+                "type":  "number",
+                "kotlinName":  "Border_width_border_width_1"
+            }
+}
