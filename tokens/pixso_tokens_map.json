@@ -1138,7 +1138,7 @@
               },
     "2:62":  {
                  "pixsoName":  "Color/Neutral/Neutral_95",
-                 "value":  "0xFFC7D7B3",
+                 "value":  "0xFFF3F0F0",
                  "type":  "color",
                  "isAlias":  false,
                  "kotlinName":  "Color_Neutral_Neutral_95"

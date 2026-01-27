@@ -38,7 +38,7 @@ object PixsoColors {
     val Color_Neutral_Neutral_70 = Color(0xFFACABAB)
     val Color_Neutral_Neutral_80 = Color(0xFFC8C6C6)
     val Color_Neutral_Neutral_90 = Color(0xFFE4E2E2)
-    val Color_Neutral_Neutral_95 = Color(0xFFC7D7B3)
+    val Color_Neutral_Neutral_95 = Color(0xFFF3F0F0)
     val Color_Neutral_Neutral_98 = Color(0xFFFBF9F9)
     val Color_Neutral_Neutral_99 = Color(0xFFFEFCFB)
     val Color_Primary_Primary_0 = Color(0xFF000000)
