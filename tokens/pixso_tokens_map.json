@@ -225,7 +225,7 @@
              },
     "8:51":  {
                  "pixsoName":  "Font/Tracking/Tracking_2",
-                 "value":  -0.30000001192092896,
+                 "value":  -0.3,
                  "type":  "number",
                  "isAlias":  false,
                  "kotlinName":  "Font_Tracking_Tracking_2"
@@ -567,7 +567,7 @@
             },
     "8:52":  {
                  "pixsoName":  "Font/Tracking/Tracking_3",
-                 "value":  0.30000001192092896,
+                 "value":  0.3,
                  "type":  "number",
                  "isAlias":  false,
                  "kotlinName":  "Font_Tracking_Tracking_3"
@@ -963,7 +963,7 @@
              },
     "2:108":  {
                   "pixsoName":  "Space/Space_16",
-                  "value":  16,
+                  "value":  64,
                   "type":  "number",
                   "isAlias":  false,
                   "kotlinName":  "Space_Space_16"
@@ -1045,7 +1045,7 @@
               },
     "8:53":  {
                  "pixsoName":  "Font/Tracking/Tracking_4",
-                 "value":  0.4000000059604645,
+                 "value":  0.4,
                  "type":  "number",
                  "isAlias":  false,
                  "kotlinName":  "Font_Tracking_Tracking_4"
@@ -1124,7 +1124,7 @@
              },
     "8:55":  {
                  "pixsoName":  "Font/Tracking/Tracking_6",
-                 "value":  0.20000000298023224,
+                 "value":  0.2,
                  "type":  "number",
                  "isAlias":  false,
                  "kotlinName":  "Font_Tracking_Tracking_6"
@@ -1640,7 +1640,7 @@
               },
     "8:54":  {
                  "pixsoName":  "Font/Tracking/Tracking_5",
-                 "value":  0.10000000149011612,
+                 "value":  0.1,
                  "type":  "number",
                  "isAlias":  false,
                  "kotlinName":  "Font_Tracking_Tracking_5"
