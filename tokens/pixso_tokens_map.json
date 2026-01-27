@@ -1292,11 +1292,11 @@
     "2:178":  {
                   "pixsoName":  "Color/State/primary",
                   "kotlinName":  "Color_State_primary",
-                  "refId":  "2:14",
+                  "refId":  "2:50",
                   "type":  "color",
                   "key":  "6489aaf796a51533e93c7808483f27877705f666",
                   "isAlias":  true,
-                  "refName":  "Color/Primary/Primary_40"
+                  "refName":  "Color/Error/Error_40"
               },
     "2:176":  {
                   "pixsoName":  "Color/Border/border_focus",
