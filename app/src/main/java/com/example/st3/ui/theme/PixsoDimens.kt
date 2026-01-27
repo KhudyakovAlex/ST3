@@ -66,7 +66,7 @@ object PixsoDimens {
     // Space
     val Space_Space_0 = 0.dp
     val Space_Space_12 = 12.dp
-    val Space_Space_16 = 64.dp
+    val Space_Space_16 = 16.dp
     val Space_Space_20 = 20.dp
     val Space_Space_24 = 24.dp
     val Space_Space_28 = 28.dp

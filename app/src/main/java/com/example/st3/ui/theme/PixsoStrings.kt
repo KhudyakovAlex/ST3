@@ -1,11 +1,11 @@
-﻿package com.example.st3.ui.theme
+package com.example.st3.ui.theme
 
 object PixsoStrings {
 
     // ===== BASE VALUES =====
     const val Font_Font_Family = "IBM Plex Sans"
     const val Font_Weight_Medium = "Medium"
-    const val Font_Weight_Regular = "Regular"
+    const val Font_Weight_Regular = "Bold"
     const val Font_Weight_SemiBold = "SemiBold"
 
     // ===== ALIASES =====

@@ -663,7 +663,7 @@
              },
     "2:155":  {
                   "pixsoName":  "Font/Weight/Regular",
-                  "value":  "Regular",
+                  "value":  "Bold",
                   "type":  "string",
                   "isAlias":  false,
                   "kotlinName":  "Font_Weight_Regular"
@@ -963,7 +963,7 @@
              },
     "2:108":  {
                   "pixsoName":  "Space/Space_16",
-                  "value":  64,
+                  "value":  16,
                   "type":  "number",
                   "isAlias":  false,
                   "kotlinName":  "Space_Space_16"
