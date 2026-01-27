@@ -382,11 +382,11 @@
     "2:168":  {
                   "pixsoName":  "Color/Bg/bg_elevated",
                   "kotlinName":  "Color_Bg_bg_elevated",
-                  "refId":  "2:47",
+                  "refId":  "2:11",
                   "type":  "color",
                   "key":  "ef42cbe1eb52d3c0c59d7da34f36973970e0fcc0",
                   "isAlias":  true,
-                  "refName":  "Color/Error/Error_70"
+                  "refName":  "Color/Primary/Primary_70"
               },
     "8:48":  {
                  "pixsoName":  "Font/Line_Height/Line_Height_48",

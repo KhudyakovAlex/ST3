@@ -1,9 +1,5 @@
 ﻿package com.example.st3.ui.theme
 
-/**
- * Auto-generated from Pixso design tokens
- * Do not edit manually - run sync command in Cursor to update
- */
 object PixsoStrings {
 
     // ===== BASE VALUES =====

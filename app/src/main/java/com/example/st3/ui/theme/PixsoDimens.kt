@@ -3,10 +3,6 @@
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
-/**
- * Auto-generated from Pixso design tokens
- * Do not edit manually - run sync command in Cursor to update
- */
 object PixsoDimens {
 
     // ===== BASE VALUES =====

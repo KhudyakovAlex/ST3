@@ -2,10 +2,6 @@
 
 import androidx.compose.ui.graphics.Color
 
-/**
- * Auto-generated from Pixso design tokens
- * Do not edit manually - run sync command in Cursor to update
- */
 object PixsoColors {
 
     // ===== BASE COLORS =====
@@ -53,7 +49,7 @@ object PixsoColors {
     val Color_Primary_Primary_25 = Color(0xFF004151)
     val Color_Primary_Primary_30 = Color(0xFF004E60)
     val Color_Primary_Primary_35 = Color(0xFF005A6F)
-    val Color_Primary_Primary_40 = Color(0xFF1C7E04)
+    val Color_Primary_Primary_40 = Color(0xFF04687E)
     val Color_Primary_Primary_5 = Color(0xFF00131A)
     val Color_Primary_Primary_50 = Color(0xFF318798)
     val Color_Primary_Primary_60 = Color(0xFF4FA2B3)
@@ -95,7 +91,7 @@ object PixsoColors {
 
     // ===== ALIAS COLORS =====
     val Color_Bg_bg_canvas = Color_Neutral_Neutral_95
-    val Color_Bg_bg_elevated = Color_Error_Error_70
+    val Color_Bg_bg_elevated = Color_Primary_Primary_70
     val Color_Bg_bg_primary_light = Color_Primary_Primary_95
     val Color_Bg_bg_shade_disabled = Color_Transparent_Tint_neutral_8
     val Color_Bg_bg_shade_primary = Color_Transparent_Tint_color_8
