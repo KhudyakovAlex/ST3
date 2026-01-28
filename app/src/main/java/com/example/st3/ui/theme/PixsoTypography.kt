@@ -6,11 +6,12 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.googlefonts.Font
 import androidx.compose.ui.text.googlefonts.GoogleFont
+import androidx.compose.ui.unit.sp
 import com.example.st3.R
 
 /**
  * Auto-generated from Pixso design tokens
- * Do not edit manually - run sync command in Cursor to update
+ * Typography styles using available Pixso tokens
  */
 
 private val googleFontProvider = GoogleFont.Provider(
@@ -33,7 +34,7 @@ val DisplayLarge = TextStyle(
     fontWeight = FontWeight.Normal,
     fontSize = PixsoDimens.Display_Display_L_Size,
     lineHeight = PixsoDimens.Display_Display_L_Line_Height,
-    letterSpacing = PixsoDimens.Display_Display_L_Tracking
+    letterSpacing = 0.sp
 )
 
 val DisplayMedium = TextStyle(
@@ -41,7 +42,7 @@ val DisplayMedium = TextStyle(
     fontWeight = FontWeight.Normal,
     fontSize = PixsoDimens.Display_Display_M_Size,
     lineHeight = PixsoDimens.Display_Display_M_Line_Height,
-    letterSpacing = PixsoDimens.Display_Display_M_Tracking
+    letterSpacing = 0.sp
 )
 
 val DisplaySmall = TextStyle(
@@ -49,7 +50,7 @@ val DisplaySmall = TextStyle(
     fontWeight = FontWeight.Normal,
     fontSize = PixsoDimens.Display_Display_S_Size,
     lineHeight = PixsoDimens.Display_Display_S_Line_Height,
-    letterSpacing = PixsoDimens.Display_Display_S_Tracking
+    letterSpacing = 0.sp
 )
 
 // Headline styles
@@ -58,7 +59,7 @@ val HeadlineLarge = TextStyle(
     fontWeight = FontWeight.Normal,
     fontSize = PixsoDimens.Headline_Headline_L_Size,
     lineHeight = PixsoDimens.Headline_Headline_L_Line_Height,
-    letterSpacing = PixsoDimens.Headline_Headline_L_Tracking
+    letterSpacing = 0.sp
 )
 
 val HeadlineMedium = TextStyle(
@@ -66,7 +67,7 @@ val HeadlineMedium = TextStyle(
     fontWeight = FontWeight.Normal,
     fontSize = PixsoDimens.Headline_Headline_M_Size,
     lineHeight = PixsoDimens.Headline_Headline_M_Line_Height,
-    letterSpacing = PixsoDimens.Headline_Headline_M_Tracking
+    letterSpacing = 0.sp
 )
 
 val HeadlineSmall = TextStyle(
@@ -74,32 +75,32 @@ val HeadlineSmall = TextStyle(
     fontWeight = FontWeight.Medium,
     fontSize = PixsoDimens.Headline_Headline_S_Size,
     lineHeight = PixsoDimens.Headline_Headline_S_Line_Height,
-    letterSpacing = PixsoDimens.Headline_Headline_S_Tracking
+    letterSpacing = 0.sp
 )
 
-// Title styles
+// Title styles (using Headline XS as fallback)
 val TitleLarge = TextStyle(
     fontFamily = IBMPlexSansFamily,
     fontWeight = FontWeight.Normal,
-    fontSize = PixsoDimens.Title_Title_L_Size,
-    lineHeight = PixsoDimens.Title_Title_L_Line_Height,
-    letterSpacing = PixsoDimens.Title_Title_L_Tracking
+    fontSize = PixsoDimens.Headline_Headline_XS_Size,
+    lineHeight = PixsoDimens.Headline_Headline_XS_Line_Height,
+    letterSpacing = 0.sp
 )
 
 val TitleMedium = TextStyle(
     fontFamily = IBMPlexSansFamily,
     fontWeight = FontWeight.Medium,
-    fontSize = PixsoDimens.Title_Title_M_Size,
-    lineHeight = PixsoDimens.Title_Title_M_Line_Height,
-    letterSpacing = PixsoDimens.Title_Title_M_Tracking
+    fontSize = 16.sp,
+    lineHeight = 24.sp,
+    letterSpacing = 0.sp
 )
 
 val TitleSmall = TextStyle(
     fontFamily = IBMPlexSansFamily,
     fontWeight = FontWeight.Medium,
-    fontSize = PixsoDimens.Title_Title_S_Size,
-    lineHeight = PixsoDimens.Title_Title_S_Line_Height,
-    letterSpacing = PixsoDimens.Title_Title_S_Tracking
+    fontSize = 14.sp,
+    lineHeight = 20.sp,
+    letterSpacing = 0.sp
 )
 
 // Body styles
@@ -108,7 +109,7 @@ val BodyLarge = TextStyle(
     fontWeight = FontWeight.Normal,
     fontSize = PixsoDimens.Body_Body_L_Size,
     lineHeight = PixsoDimens.Body_Body_L_Line_Height,
-    letterSpacing = PixsoDimens.Body_Body_L_Tracking
+    letterSpacing = 0.sp
 )
 
 val BodyMedium = TextStyle(
@@ -116,7 +117,7 @@ val BodyMedium = TextStyle(
     fontWeight = FontWeight.Normal,
     fontSize = PixsoDimens.Body_Body_M_Size,
     lineHeight = PixsoDimens.Body_Body_M_Line_Height,
-    letterSpacing = PixsoDimens.Body_Body_M_Tracking
+    letterSpacing = 0.sp
 )
 
 val BodySmall = TextStyle(
@@ -124,7 +125,7 @@ val BodySmall = TextStyle(
     fontWeight = FontWeight.Normal,
     fontSize = PixsoDimens.Body_Body_S_Size,
     lineHeight = PixsoDimens.Body_Body_S_Line_Height,
-    letterSpacing = PixsoDimens.Body_Body_S_Tracking
+    letterSpacing = 0.sp
 )
 
 // Label styles
@@ -133,7 +134,7 @@ val LabelLarge = TextStyle(
     fontWeight = FontWeight.Medium,
     fontSize = PixsoDimens.Label_Label_L_Size,
     lineHeight = PixsoDimens.Label_Label_L_Line_Height,
-    letterSpacing = PixsoDimens.Label_Label_L_Tracking
+    letterSpacing = 0.sp
 )
 
 val LabelMedium = TextStyle(
@@ -141,7 +142,7 @@ val LabelMedium = TextStyle(
     fontWeight = FontWeight.Medium,
     fontSize = PixsoDimens.Label_Label_M_Size,
     lineHeight = PixsoDimens.Label_Label_M_Line_Height,
-    letterSpacing = PixsoDimens.Label_Label_M_Tracking
+    letterSpacing = 0.sp
 )
 
 val LabelSmall = TextStyle(
@@ -149,7 +150,7 @@ val LabelSmall = TextStyle(
     fontWeight = FontWeight.Medium,
     fontSize = PixsoDimens.Label_Label_S_Size,
     lineHeight = PixsoDimens.Label_Label_S_Line_Height,
-    letterSpacing = PixsoDimens.Label_Label_S_Tracking
+    letterSpacing = 0.sp
 )
 
 // Material3 Typography with Pixso tokens
