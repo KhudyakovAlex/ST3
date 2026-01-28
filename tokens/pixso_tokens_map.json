@@ -1,12 +1,4 @@
 ﻿{
-    "8:183":  {
-                  "pixsoName":  "Title/Title L/Font",
-                  "kotlinName":  "Title_Title_L_Font",
-                  "refId":  "2:141",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Font_Family"
-              },
     "2:14":  {
                  "pixsoName":  "Color/Primary/Primary_40",
                  "value":  "0xFF04687E",
@@ -15,63 +7,56 @@
                  "kotlinName":  "Color_Primary_Primary_40"
              },
     "2:117":  {
-                  "pixsoName":  "Space/Space_56",
+                  "pixsoName":  "Numeric/56",
                   "value":  56,
                   "type":  "number",
                   "isAlias":  false,
-                  "kotlinName":  "Space_Space_56"
+                  "kotlinName":  "Numeric_56"
               },
-    "8:120":  {
-                  "pixsoName":  "Body/Body L/Tracking",
-                  "kotlinName":  "Body_Body_L_Tracking",
-                  "refId":  "8:50",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Tracking/Tracking_1"
-              },
-    "5:1":  {
-                "pixsoName":  "Border-width/border-width_12",
-                "value":  12,
-                "type":  "number",
-                "isAlias":  false,
-                "kotlinName":  "Border_width_border_width_12"
-            },
-    "8:65":  {
-                 "pixsoName":  "Button/Button L/Tracking",
-                 "kotlinName":  "Button_Button_L_Tracking",
-                 "refId":  "8:49",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Tracking/Tracking_0"
-             },
-    "2:174":  {
-                  "pixsoName":  "Color/Border/border_shade_4",
-                  "kotlinName":  "Color_Border_border_shade_4",
-                  "refId":  "2:193",
-                  "type":  "color",
-                  "isAlias":  true,
-                  "refName":  "Color/Transparent/Tint_neutral_4"
-              },
-    "2:50":  {
-                 "pixsoName":  "Color/Error/Error_40",
-                 "value":  "0xFFB81F1E",
-                 "type":  "color",
-                 "isAlias":  false,
-                 "kotlinName":  "Color_Error_Error_40"
-             },
-    "2:49":  {
-                 "pixsoName":  "Color/Error/Error_50",
-                 "value":  "0xFFDB3A34",
-                 "type":  "color",
-                 "isAlias":  false,
-                 "kotlinName":  "Color_Error_Error_50"
-             },
-    "2:157":  {
-                  "pixsoName":  "Font/Size/Size_12",
-                  "value":  12,
+    "2:114":  {
+                  "pixsoName":  "Numeric/40",
+                  "value":  40,
                   "type":  "number",
                   "isAlias":  false,
-                  "kotlinName":  "Font_Size_Size_12"
+                  "kotlinName":  "Numeric_40"
+              },
+    "2:172":  {
+                  "pixsoName":  "Color/Text/text_inverse",
+                  "kotlinName":  "Color_Text_text_inverse",
+                  "refId":  "2:6",
+                  "type":  "color",
+                  "isAlias":  true,
+                  "refName":  "Color/Primary/Primary_99"
+              },
+    "8:64":  {
+                 "pixsoName":  "Button/Button L/Size",
+                 "kotlinName":  "Button_Button_L_Size",
+                 "refId":  "2:131",
+                 "type":  "number",
+                 "isAlias":  true,
+                 "refName":  "Font/Size/Size_20"
+             },
+    "2:66":  {
+                 "pixsoName":  "Color/Neutral/Neutral_60",
+                 "value":  "0xFF929090",
+                 "type":  "color",
+                 "isAlias":  false,
+                 "kotlinName":  "Color_Neutral_Neutral_60"
+             },
+    "2:178":  {
+                  "pixsoName":  "Color/State/primary",
+                  "kotlinName":  "Color_State_primary",
+                  "refId":  "2:14",
+                  "type":  "color",
+                  "isAlias":  true,
+                  "refName":  "Color/Primary/Primary_40"
+              },
+    "2:188":  {
+                  "pixsoName":  "Color/Transparent/Tint_neutral_40",
+                  "value":  "0x661B1C1C",
+                  "type":  "color",
+                  "isAlias":  false,
+                  "kotlinName":  "Color_Transparent_Tint_neutral_40"
               },
     "8:78":  {
                  "pixsoName":  "Button/Button S/Line_Height",
@@ -88,19 +73,13 @@
                 "isAlias":  false,
                 "kotlinName":  "Color_Primary_Primary_98"
             },
-    "2:13":  {
-                 "pixsoName":  "Color/Primary/Primary_50",
-                 "value":  "0xFF318798",
-                 "type":  "color",
-                 "isAlias":  false,
-                 "kotlinName":  "Color_Primary_Primary_50"
-             },
-    "2:110":  {
-                  "pixsoName":  "Space/Space_24",
-                  "value":  24,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Space_Space_24"
+    "2:180":  {
+                  "pixsoName":  "Color/Text/text_error",
+                  "kotlinName":  "Color_Text_text_error",
+                  "refId":  "2:50",
+                  "type":  "color",
+                  "isAlias":  true,
+                  "refName":  "Color/Error/Error_40"
               },
     "2:43":  {
                  "pixsoName":  "Color/Error/Error_98",
@@ -108,30 +87,6 @@
                  "type":  "color",
                  "isAlias":  false,
                  "kotlinName":  "Color_Error_Error_98"
-             },
-    "8:94":  {
-                 "pixsoName":  "Display/Display S/Line_Height",
-                 "kotlinName":  "Display_Display_S_Line_Height",
-                 "refId":  "8:96",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Line_Height/Line_Height_44"
-             },
-    "8:117":  {
-                  "pixsoName":  "Headline/Headline XS/Font",
-                  "kotlinName":  "Headline_Headline_XS_Font",
-                  "refId":  "2:141",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Font_Family"
-              },
-    "8:66":  {
-                 "pixsoName":  "Button/Button M/Font",
-                 "kotlinName":  "Button_Button_M_Font",
-                 "refId":  "2:141",
-                 "type":  "string",
-                 "isAlias":  true,
-                 "refName":  "Font/Font_Family"
              },
     "4:3":  {
                 "pixsoName":  "Border-width/border-width_4",
@@ -148,20 +103,19 @@
                  "isAlias":  true,
                  "refName":  "Color/Transparent/Tint_neutral_64"
              },
-    "2:180":  {
-                  "pixsoName":  "Color/Text/text_error",
-                  "kotlinName":  "Color_Text_text_error",
-                  "refId":  "2:50",
-                  "type":  "color",
-                  "isAlias":  true,
-                  "refName":  "Color/Error/Error_40"
-              },
     "2:115":  {
-                  "pixsoName":  "Space/Space_48",
+                  "pixsoName":  "Numeric/48",
                   "value":  48,
                   "type":  "number",
                   "isAlias":  false,
-                  "kotlinName":  "Space_Space_48"
+                  "kotlinName":  "Numeric_48"
+              },
+    "44:26":  {
+                  "pixsoName":  "Numeric/200",
+                  "value":  200,
+                  "type":  "number",
+                  "isAlias":  false,
+                  "kotlinName":  "Numeric_200"
               },
     "4:9":  {
                 "pixsoName":  "Color/State/tertiary",
@@ -171,14 +125,6 @@
                 "isAlias":  true,
                 "refName":  "Color/Secondary/Secondary_30"
             },
-    "8:146":  {
-                  "pixsoName":  "Label/Label M/Weight",
-                  "kotlinName":  "Label_Label_M_Weight",
-                  "refId":  "2:163",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Weight/Medium"
-              },
     "2:60":  {
                  "pixsoName":  "Color/Neutral/Neutral_99",
                  "value":  "0xFFFEFCFB",
@@ -186,28 +132,14 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Neutral_Neutral_99"
              },
-    "2:111":  {
-                  "pixsoName":  "Space/Space_28",
-                  "value":  28,
+    "44:15":  {
+                  "pixsoName":  "Radius/Radius_M",
+                  "kotlinName":  "Radius_Radius_M",
+                  "refId":  "2:110",
                   "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Space_Space_28"
+                  "isAlias":  true,
+                  "refName":  "Numeric/24"
               },
-    "8:77":  {
-                 "pixsoName":  "Button/Button S/Weight",
-                 "kotlinName":  "Button_Button_S_Weight",
-                 "refId":  "2:163",
-                 "type":  "string",
-                 "isAlias":  true,
-                 "refName":  "Font/Weight/Medium"
-             },
-    "2:47":  {
-                 "pixsoName":  "Color/Error/Error_70",
-                 "value":  "0xFFFF897D",
-                 "type":  "color",
-                 "isAlias":  false,
-                 "kotlinName":  "Color_Error_Error_70"
-             },
     "2:138":  {
                   "pixsoName":  "Font/Size/Size_48",
                   "value":  48,
@@ -215,21 +147,27 @@
                   "isAlias":  false,
                   "kotlinName":  "Font_Size_Size_48"
               },
-    "8:67":  {
-                 "pixsoName":  "Button/Button M/Weight",
-                 "kotlinName":  "Button_Button_M_Weight",
-                 "refId":  "2:163",
-                 "type":  "string",
-                 "isAlias":  true,
-                 "refName":  "Font/Weight/Medium"
-             },
-    "8:51":  {
-                 "pixsoName":  "Font/Tracking/Tracking_2",
-                 "value":  -0.3,
+    "2:110":  {
+                  "pixsoName":  "Numeric/24",
+                  "value":  24,
+                  "type":  "number",
+                  "isAlias":  false,
+                  "kotlinName":  "Numeric_24"
+              },
+    "8:40":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_20",
+                 "value":  20,
                  "type":  "number",
                  "isAlias":  false,
-                 "kotlinName":  "Font_Tracking_Tracking_2"
+                 "kotlinName":  "Font_Line_Height_Line_Height_20"
              },
+    "8:112":  {
+                  "pixsoName":  "Font/Line_Height/Line_Height_36",
+                  "value":  36,
+                  "type":  "number",
+                  "isAlias":  false,
+                  "kotlinName":  "Font_Line_Height_Line_Height_36"
+              },
     "8:114":  {
                   "pixsoName":  "Headline/Headline XS/Size",
                   "kotlinName":  "Headline_Headline_XS_Size",
@@ -253,28 +191,19 @@
                   "isAlias":  true,
                   "refName":  "Color/Neutral/Neutral_100"
               },
-    "8:186":  {
-                  "pixsoName":  "Title/Title L/Line_Height",
-                  "kotlinName":  "Title_Title_L_Line_Height",
-                  "refId":  "8:45",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Line_Height/Line_Height_28"
-              },
-    "8:184":  {
-                  "pixsoName":  "Title/Title L/Weight",
-                  "kotlinName":  "Title_Title_L_Weight",
-                  "refId":  "2:155",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Weight/Regular"
-              },
+    "2:76":  {
+                 "pixsoName":  "Color/Neutral/Neutral_0",
+                 "value":  "0xFF000000",
+                 "type":  "color",
+                 "isAlias":  false,
+                 "kotlinName":  "Color_Neutral_Neutral_0"
+             },
     "2:103":  {
-                  "pixsoName":  "Space/Space_0",
+                  "pixsoName":  "Numeric/0",
                   "value":  0,
                   "type":  "number",
                   "isAlias":  false,
-                  "kotlinName":  "Space_Space_0"
+                  "kotlinName":  "Numeric_0"
               },
     "2:18":  {
                  "pixsoName":  "Color/Primary/Primary_20",
@@ -283,14 +212,13 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Primary_Primary_20"
              },
-    "8:101":  {
-                  "pixsoName":  "Headline/Headline L/Font",
-                  "kotlinName":  "Headline_Headline_L_Font",
-                  "refId":  "2:141",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Font_Family"
-              },
+    "2:44":  {
+                 "pixsoName":  "Color/Error/Error_95",
+                 "value":  "0xFFFFEDEA",
+                 "type":  "color",
+                 "isAlias":  false,
+                 "kotlinName":  "Color_Error_Error_95"
+             },
     "2:9":  {
                 "pixsoName":  "Color/Primary/Primary_90",
                 "value":  "0xFFB5F3FF",
@@ -298,12 +226,13 @@
                 "isAlias":  false,
                 "kotlinName":  "Color_Primary_Primary_90"
             },
-    "2:107":  {
-                  "pixsoName":  "Space/Space_12",
-                  "value":  12,
+    "8:148":  {
+                  "pixsoName":  "Label/Label S/Line_Height",
+                  "kotlinName":  "Label_Label_S_Line_Height",
+                  "refId":  "8:41",
                   "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Space_Space_12"
+                  "isAlias":  true,
+                  "refName":  "Font/Line_Height/Line_Height_16"
               },
     "2:24":  {
                  "pixsoName":  "Color/Secondary/Secondary_99",
@@ -320,13 +249,36 @@
                 "isAlias":  true,
                 "refName":  "Color/Transparent/Tint_neutral_4"
             },
-    "2:45":  {
-                 "pixsoName":  "Color/Error/Error_90",
-                 "value":  "0xFFFFDAD6",
-                 "type":  "color",
-                 "isAlias":  false,
-                 "kotlinName":  "Color_Error_Error_90"
-             },
+    "44:17":  {
+                  "pixsoName":  "Radius/Radius_L",
+                  "kotlinName":  "Radius_Radius_L",
+                  "refId":  "2:114",
+                  "type":  "number",
+                  "isAlias":  true,
+                  "refName":  "Numeric/40"
+              },
+    "2:111":  {
+                  "pixsoName":  "Numeric/28",
+                  "value":  28,
+                  "type":  "number",
+                  "isAlias":  false,
+                  "kotlinName":  "Numeric_28"
+              },
+    "4:4":  {
+                "pixsoName":  "Border-width/border-width_8",
+                "value":  8,
+                "type":  "number",
+                "isAlias":  false,
+                "kotlinName":  "Border_width_border_width_8"
+            },
+    "8:116":  {
+                  "pixsoName":  "Headline/Headline XS/Weight",
+                  "kotlinName":  "Headline_Headline_XS_Weight",
+                  "refId":  "2:155",
+                  "type":  "string",
+                  "isAlias":  true,
+                  "refName":  "Font/Weight/Regular"
+              },
     "8:42":  {
                  "pixsoName":  "Font/Line_Height/Line_Height_64",
                  "value":  64,
@@ -334,28 +286,12 @@
                  "isAlias":  false,
                  "kotlinName":  "Font_Line_Height_Line_Height_64"
              },
-    "8:152":  {
-                  "pixsoName":  "Label/Label S/Font",
-                  "kotlinName":  "Label_Label_S_Font",
-                  "refId":  "2:141",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Font_Family"
-              },
-    "3:3":  {
-                "pixsoName":  "Color/Bg/bg_shade_disabled",
-                "kotlinName":  "Color_Bg_bg_shade_disabled",
-                "refId":  "2:191",
-                "type":  "color",
-                "isAlias":  true,
-                "refName":  "Color/Transparent/Tint_neutral_8"
-            },
-    "2:76":  {
-                 "pixsoName":  "Color/Neutral/Neutral_0",
-                 "value":  "0xFF000000",
+    "2:52":  {
+                 "pixsoName":  "Color/Error/Error_30",
+                 "value":  "0xFF93000B",
                  "type":  "color",
                  "isAlias":  false,
-                 "kotlinName":  "Color_Neutral_Neutral_0"
+                 "kotlinName":  "Color_Error_Error_30"
              },
     "2:168":  {
                   "pixsoName":  "Color/Bg/bg_elevated",
@@ -372,33 +308,36 @@
                  "isAlias":  false,
                  "kotlinName":  "Font_Line_Height_Line_Height_48"
              },
-    "2:114":  {
-                  "pixsoName":  "Space/Space_40",
-                  "value":  40,
+    "8:103":  {
+                  "pixsoName":  "Headline/Headline M/Size",
+                  "kotlinName":  "Headline_Headline_M_Size",
+                  "refId":  "2:133",
                   "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Space_Space_40"
+                  "isAlias":  true,
+                  "refName":  "Font/Size/Size_28"
               },
-    "2:33":  {
-                 "pixsoName":  "Color/Secondary/Secondary_35",
-                 "value":  "0xFF3D484B",
+    "46:7":  {
+                 "pixsoName":  "Font",
+                 "kotlinName":  "Font",
+                 "refId":  "2:141",
+                 "type":  "string",
+                 "isAlias":  true,
+                 "refName":  "Font/Font_Family"
+             },
+    "2:45":  {
+                 "pixsoName":  "Color/Error/Error_90",
+                 "value":  "0xFFFFDAD6",
                  "type":  "color",
                  "isAlias":  false,
-                 "kotlinName":  "Color_Secondary_Secondary_35"
+                 "kotlinName":  "Color_Error_Error_90"
              },
-    "2:32":  {
-                 "pixsoName":  "Color/Secondary/Secondary_40",
-                 "value":  "0xFF495659",
-                 "type":  "color",
-                 "isAlias":  false,
-                 "kotlinName":  "Color_Secondary_Secondary_40"
-             },
-    "2:112":  {
-                  "pixsoName":  "Space/Space_32",
-                  "value":  32,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Space_Space_32"
+    "2:181":  {
+                  "pixsoName":  "Color/Bg/error_bg",
+                  "kotlinName":  "Color_Bg_error_bg",
+                  "refId":  "2:44",
+                  "type":  "color",
+                  "isAlias":  true,
+                  "refName":  "Color/Error/Error_95"
               },
     "8:84":  {
                  "pixsoName":  "Display/Display L/Size",
@@ -415,44 +354,30 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Secondary_Secondary_95"
              },
-    "2:128":  {
-                  "pixsoName":  "Radius/Radius_40",
-                  "value":  40,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Radius_Radius_40"
-              },
     "8:63":  {
-                 "pixsoName":  "Button/Button L/Weight",
-                 "kotlinName":  "Button_Button_L_Weight",
+                 "pixsoName":  "Button/Weight",
+                 "kotlinName":  "Button_Weight",
                  "refId":  "2:163",
                  "type":  "string",
                  "isAlias":  true,
                  "refName":  "Font/Weight/Medium"
              },
-    "8:124":  {
-                  "pixsoName":  "Body/Body M/Size",
-                  "kotlinName":  "Body_Body_M_Size",
-                  "refId":  "2:158",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Size/Size_14"
-              },
-    "8:111":  {
-                  "pixsoName":  "Headline/Headline S/Font",
-                  "kotlinName":  "Headline_Headline_S_Font",
-                  "refId":  "2:141",
+    "8:110":  {
+                  "pixsoName":  "Headline/Headline S/Weight",
+                  "kotlinName":  "Headline_Headline_S_Weight",
+                  "refId":  "2:155",
                   "type":  "string",
                   "isAlias":  true,
-                  "refName":  "Font/Font_Family"
+                  "refName":  "Font/Weight/Regular"
               },
-    "2:139":  {
-                  "pixsoName":  "Font/Size/Size_52",
-                  "value":  52,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Font_Size_Size_52"
-              },
+    "3:1":  {
+                "pixsoName":  "Color/State/pressed_shade_24",
+                "kotlinName":  "Color_State_pressed_shade_24",
+                "refId":  "2:189",
+                "type":  "color",
+                "isAlias":  true,
+                "refName":  "Color/Transparent/Tint_neutral_24"
+            },
     "2:59":  {
                  "pixsoName":  "Color/Neutral/Neutral_100",
                  "value":  "0xFFFFFFFF",
@@ -460,13 +385,14 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Neutral_Neutral_100"
              },
-    "2:132":  {
-                  "pixsoName":  "Font/Size/Size_24",
-                  "value":  24,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Font_Size_Size_24"
-              },
+    "8:79":  {
+                 "pixsoName":  "Button/Button S/Size",
+                 "kotlinName":  "Button_Button_S_Size",
+                 "refId":  "2:158",
+                 "type":  "number",
+                 "isAlias":  true,
+                 "refName":  "Font/Size/Size_14"
+             },
     "8:108":  {
                   "pixsoName":  "Headline/Headline S/Size",
                   "kotlinName":  "Headline_Headline_S_Size",
@@ -475,29 +401,13 @@
                   "isAlias":  true,
                   "refName":  "Font/Size/Size_24"
               },
-    "2:171":  {
-                  "pixsoName":  "Color/Text/text_3_level",
-                  "kotlinName":  "Color_Text_text_3_level",
-                  "refId":  "2:68",
-                  "type":  "color",
-                  "isAlias":  true,
-                  "refName":  "Color/Neutral/Neutral_40"
-              },
-    "2:42":  {
-                 "pixsoName":  "Color/Error/Error_99",
-                 "value":  "0xFFFFFBFF",
+    "2:22":  {
+                 "pixsoName":  "Color/Primary/Primary_0",
+                 "value":  "0xFF000000",
                  "type":  "color",
                  "isAlias":  false,
-                 "kotlinName":  "Color_Error_Error_99"
+                 "kotlinName":  "Color_Primary_Primary_0"
              },
-    "8:127":  {
-                  "pixsoName":  "Body/Body M/Font",
-                  "kotlinName":  "Body_Body_M_Font",
-                  "refId":  "2:141",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Font_Family"
-              },
     "4:2":  {
                 "pixsoName":  "Border-width/border-width_2",
                 "value":  2,
@@ -512,20 +422,21 @@
                  "isAlias":  false,
                  "kotlinName":  "Font_Line_Height_Line_Height_16"
              },
-    "8:83":  {
-                 "pixsoName":  "Display/Display L/Line_Height",
-                 "kotlinName":  "Display_Display_L_Line_Height",
-                 "refId":  "8:42",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Line_Height/Line_Height_64"
-             },
-    "2:109":  {
-                  "pixsoName":  "Space/Space_20",
-                  "value":  20,
+    "8:100":  {
+                  "pixsoName":  "Headline/Headline L/Weight",
+                  "kotlinName":  "Headline_Headline_L_Weight",
+                  "refId":  "2:155",
+                  "type":  "string",
+                  "isAlias":  true,
+                  "refName":  "Font/Weight/Regular"
+              },
+    "44:25":  {
+                  "pixsoName":  "Radius/Radius_Full",
+                  "kotlinName":  "Radius_Radius_Full",
+                  "refId":  "44:26",
                   "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Space_Space_20"
+                  "isAlias":  true,
+                  "refName":  "Numeric/200"
               },
     "2:189":  {
                   "pixsoName":  "Color/Transparent/Tint_neutral_24",
@@ -550,50 +461,41 @@
                 "isAlias":  true,
                 "refName":  "Color/Transparent/Tint_neutral_32"
             },
-    "2:70":  {
-                 "pixsoName":  "Color/Neutral/Neutral_30",
-                 "value":  "0xFF474747",
+    "2:46":  {
+                 "pixsoName":  "Color/Error/Error_80",
+                 "value":  "0xFFFFB4AB",
                  "type":  "color",
                  "isAlias":  false,
-                 "kotlinName":  "Color_Neutral_Neutral_30"
+                 "kotlinName":  "Color_Error_Error_80"
              },
-    "3:1":  {
-                "pixsoName":  "Color/State/pressed_shade_24",
-                "kotlinName":  "Color_State_pressed_shade_24",
-                "refId":  "2:189",
-                "type":  "color",
-                "isAlias":  true,
-                "refName":  "Color/Transparent/Tint_neutral_24"
-            },
-    "8:52":  {
-                 "pixsoName":  "Font/Tracking/Tracking_3",
-                 "value":  0.3,
-                 "type":  "number",
-                 "isAlias":  false,
-                 "kotlinName":  "Font_Tracking_Tracking_3"
-             },
-    "8:193":  {
-                  "pixsoName":  "Title/Title S/Font",
-                  "kotlinName":  "Title_Title_S_Font",
-                  "refId":  "2:141",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Font_Family"
-              },
-    "2:127":  {
-                  "pixsoName":  "Radius/Radius_36",
-                  "value":  36,
+    "2:130":  {
+                  "pixsoName":  "Font/Size/Size_16",
+                  "value":  16,
                   "type":  "number",
                   "isAlias":  false,
-                  "kotlinName":  "Radius_Radius_36"
+                  "kotlinName":  "Font_Size_Size_16"
               },
-    "2:190":  {
-                  "pixsoName":  "Color/Transparent/Tint_neutral_16",
-                  "value":  "0x291B1C1C",
-                  "type":  "color",
-                  "isAlias":  false,
-                  "kotlinName":  "Color_Transparent_Tint_neutral_16"
-              },
+    "2:42":  {
+                 "pixsoName":  "Color/Error/Error_99",
+                 "value":  "0xFFFFFBFF",
+                 "type":  "color",
+                 "isAlias":  false,
+                 "kotlinName":  "Color_Error_Error_99"
+             },
+    "5:1":  {
+                "pixsoName":  "Border-width/border-width_12",
+                "value":  12,
+                "type":  "number",
+                "isAlias":  false,
+                "kotlinName":  "Border_width_border_width_12"
+            },
+    "8:46":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_32",
+                 "value":  32,
+                 "type":  "number",
+                 "isAlias":  false,
+                 "kotlinName":  "Font_Line_Height_Line_Height_32"
+             },
     "2:69":  {
                  "pixsoName":  "Color/Neutral/Neutral_35",
                  "value":  "0xFF535252",
@@ -602,8 +504,8 @@
                  "kotlinName":  "Color_Neutral_Neutral_35"
              },
     "8:82":  {
-                 "pixsoName":  "Display/Display L/Weight",
-                 "kotlinName":  "Display_Display_L_Weight",
+                 "pixsoName":  "Display/Weight",
+                 "kotlinName":  "Display_Weight",
                  "refId":  "2:155",
                  "type":  "string",
                  "isAlias":  true,
@@ -623,14 +525,6 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Primary_Primary_15"
              },
-    "8:196":  {
-                  "pixsoName":  "Title/Title S/Line_Height",
-                  "kotlinName":  "Title_Title_S_Line_Height",
-                  "refId":  "8:40",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Line_Height/Line_Height_20"
-              },
     "2:8":  {
                 "pixsoName":  "Color/Primary/Primary_95",
                 "value":  "0xFFDCF9FF",
@@ -638,14 +532,6 @@
                 "isAlias":  false,
                 "kotlinName":  "Color_Primary_Primary_95"
             },
-    "8:85":  {
-                 "pixsoName":  "Display/Display L/Tracking",
-                 "kotlinName":  "Display_Display_L_Tracking",
-                 "refId":  "8:51",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Tracking/Tracking_2"
-             },
     "8:149":  {
                   "pixsoName":  "Label/Label S/Size",
                   "kotlinName":  "Label_Label_S_Size",
@@ -663,7 +549,7 @@
              },
     "2:155":  {
                   "pixsoName":  "Font/Weight/Regular",
-                  "value":  "Bold",
+                  "value":  "Regular",
                   "type":  "string",
                   "isAlias":  false,
                   "kotlinName":  "Font_Weight_Regular"
@@ -676,19 +562,20 @@
                 "isAlias":  true,
                 "refName":  "Color/Neutral/Neutral_70"
             },
-    "2:44":  {
-                 "pixsoName":  "Color/Error/Error_95",
-                 "value":  "0xFFFFEDEA",
+    "2:36":  {
+                 "pixsoName":  "Color/Secondary/Secondary_20",
+                 "value":  "0xFF1B2324",
                  "type":  "color",
                  "isAlias":  false,
-                 "kotlinName":  "Color_Error_Error_95"
+                 "kotlinName":  "Color_Secondary_Secondary_20"
              },
-    "2:22":  {
-                 "pixsoName":  "Color/Primary/Primary_0",
-                 "value":  "0xFF000000",
-                 "type":  "color",
-                 "isAlias":  false,
-                 "kotlinName":  "Color_Primary_Primary_0"
+    "8:83":  {
+                 "pixsoName":  "Display/Display L/Line_Height",
+                 "kotlinName":  "Display_Display_L_Line_Height",
+                 "refId":  "8:42",
+                 "type":  "number",
+                 "isAlias":  true,
+                 "refName":  "Font/Line_Height/Line_Height_64"
              },
     "2:135":  {
                   "pixsoName":  "Font/Size/Size_36",
@@ -697,14 +584,13 @@
                   "isAlias":  false,
                   "kotlinName":  "Font_Size_Size_36"
               },
-    "3:4":  {
-                "pixsoName":  "Color/State/secondary",
-                "kotlinName":  "Color_State_secondary",
-                "refId":  "2:25",
-                "type":  "color",
-                "isAlias":  true,
-                "refName":  "Color/Secondary/Secondary_98"
-            },
+    "2:57":  {
+                 "pixsoName":  "Color/Error/Error_5",
+                 "value":  "0xFF2D0001",
+                 "type":  "color",
+                 "isAlias":  false,
+                 "kotlinName":  "Color_Error_Error_5"
+             },
     "8:138":  {
                   "pixsoName":  "Label/Label L/Line_Height",
                   "kotlinName":  "Label_Label_L_Line_Height",
@@ -720,29 +606,21 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Error_Error_0"
              },
-    "8:187":  {
-                  "pixsoName":  "Title/Title L/Tracking",
-                  "kotlinName":  "Title_Title_L_Tracking",
-                  "refId":  "8:49",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Tracking/Tracking_0"
-              },
-    "2:133":  {
-                  "pixsoName":  "Font/Size/Size_28",
-                  "value":  28,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Font_Size_Size_28"
-              },
-    "2:181":  {
-                  "pixsoName":  "Color/Bg/error_bg",
-                  "kotlinName":  "Color_Bg_error_bg",
-                  "refId":  "2:44",
+    "2:169":  {
+                  "pixsoName":  "Color/Text/text_1_level",
+                  "kotlinName":  "Color_Text_text_1_level",
+                  "refId":  "2:21",
                   "type":  "color",
                   "isAlias":  true,
-                  "refName":  "Color/Error/Error_95"
+                  "refName":  "Color/Primary/Primary_5"
               },
+    "2:56":  {
+                 "pixsoName":  "Color/Error/Error_10",
+                 "value":  "0xFF410002",
+                 "type":  "color",
+                 "isAlias":  false,
+                 "kotlinName":  "Color_Error_Error_10"
+             },
     "2:73":  {
                  "pixsoName":  "Color/Neutral/Neutral_15",
                  "value":  "0xFF262626",
@@ -773,20 +651,19 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Secondary_Secondary_100"
              },
-    "2:169":  {
-                  "pixsoName":  "Color/Text/text_1_level",
-                  "kotlinName":  "Color_Text_text_1_level",
-                  "refId":  "2:21",
-                  "type":  "color",
-                  "isAlias":  true,
-                  "refName":  "Color/Primary/Primary_5"
+    "2:156":  {
+                  "pixsoName":  "Font/Size/Size_11",
+                  "value":  11,
+                  "type":  "number",
+                  "isAlias":  false,
+                  "kotlinName":  "Font_Size_Size_11"
               },
-    "2:52":  {
-                 "pixsoName":  "Color/Error/Error_30",
-                 "value":  "0xFF93000B",
+    "2:32":  {
+                 "pixsoName":  "Color/Secondary/Secondary_40",
+                 "value":  "0xFF495659",
                  "type":  "color",
                  "isAlias":  false,
-                 "kotlinName":  "Color_Error_Error_30"
+                 "kotlinName":  "Color_Secondary_Secondary_40"
              },
     "2:34":  {
                  "pixsoName":  "Color/Secondary/Secondary_30",
@@ -802,22 +679,6 @@
                 "isAlias":  false,
                 "kotlinName":  "Color_Primary_Primary_99"
             },
-    "8:79":  {
-                 "pixsoName":  "Button/Button S/Size",
-                 "kotlinName":  "Button_Button_S_Size",
-                 "refId":  "2:158",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Size/Size_14"
-             },
-    "8:103":  {
-                  "pixsoName":  "Headline/Headline M/Size",
-                  "kotlinName":  "Headline_Headline_M_Size",
-                  "refId":  "2:133",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Size/Size_28"
-              },
     "8:87":  {
                  "pixsoName":  "Display/Display M/Size",
                  "kotlinName":  "Display_Display_M_Size",
@@ -826,14 +687,6 @@
                  "isAlias":  true,
                  "refName":  "Font/Size/Size_44"
              },
-    "8:191":  {
-                  "pixsoName":  "Title/Title M/Line_Height",
-                  "kotlinName":  "Title_Title_M_Line_Height",
-                  "refId":  "8:44",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Line_Height/Line_Height_24"
-              },
     "2:29":  {
                  "pixsoName":  "Color/Secondary/Secondary_70",
                  "value":  "0xFF8CABB3",
@@ -841,29 +694,14 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Secondary_Secondary_70"
              },
-    "8:194":  {
-                  "pixsoName":  "Title/Title S/Weight",
-                  "kotlinName":  "Title_Title_S_Weight",
-                  "refId":  "2:163",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Weight/Medium"
-              },
-    "2:188":  {
-                  "pixsoName":  "Color/Transparent/Tint_neutral_40",
-                  "value":  "0x661B1C1C",
-                  "type":  "color",
-                  "isAlias":  false,
-                  "kotlinName":  "Color_Transparent_Tint_neutral_40"
-              },
-    "8:70":  {
-                 "pixsoName":  "Button/Button M/Tracking",
-                 "kotlinName":  "Button_Button_M_Tracking",
-                 "refId":  "8:50",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Tracking/Tracking_1"
-             },
+    "3:4":  {
+                "pixsoName":  "Color/State/secondary",
+                "kotlinName":  "Color_State_secondary",
+                "refId":  "2:25",
+                "type":  "color",
+                "isAlias":  true,
+                "refName":  "Color/Secondary/Secondary_98"
+            },
     "2:72":  {
                  "pixsoName":  "Color/Neutral/Neutral_20",
                  "value":  "0xFF303031",
@@ -879,58 +717,28 @@
                   "kotlinName":  "Font_Size_Size_14"
               },
     "8:141":  {
-                  "pixsoName":  "Label/Label L/Weight",
-                  "kotlinName":  "Label_Label_L_Weight",
+                  "pixsoName":  "Label/Weight",
+                  "kotlinName":  "Label_Weight",
                   "refId":  "2:163",
                   "type":  "string",
                   "isAlias":  true,
                   "refName":  "Font/Weight/Medium"
               },
-    "8:106":  {
-                  "pixsoName":  "Headline/Headline M/Font",
-                  "kotlinName":  "Headline_Headline_M_Font",
-                  "refId":  "2:141",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Font_Family"
-              },
-    "2:167":  {
-                  "pixsoName":  "Color/Bg/bg_subtle",
-                  "kotlinName":  "Color_Bg_bg_subtle",
-                  "refId":  "2:61",
-                  "type":  "color",
-                  "isAlias":  true,
-                  "refName":  "Color/Neutral/Neutral_98"
-              },
-    "2:56":  {
-                 "pixsoName":  "Color/Error/Error_10",
-                 "value":  "0xFF410002",
-                 "type":  "color",
-                 "isAlias":  false,
-                 "kotlinName":  "Color_Error_Error_10"
-             },
-    "2:129":  {
-                  "pixsoName":  "Radius/Radius_Full",
-                  "value":  200,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Radius_Radius_Full"
-              },
-    "8:131":  {
-                  "pixsoName":  "Body/Body S/Weight",
-                  "kotlinName":  "Body_Body_S_Weight",
-                  "refId":  "2:155",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Weight/Regular"
-              },
-    "8:45":  {
-                 "pixsoName":  "Font/Line_Height/Line_Height_28",
-                 "value":  28,
+    "11:2":  {
+                 "pixsoName":  "Numeric/88",
+                 "value":  88,
                  "type":  "number",
                  "isAlias":  false,
-                 "kotlinName":  "Font_Line_Height_Line_Height_28"
+                 "kotlinName":  "Numeric_88"
              },
+    "5:4":  {
+                "pixsoName":  "Color/Border/border_shade_8",
+                "kotlinName":  "Color_Border_border_shade_8",
+                "refId":  "2:191",
+                "type":  "color",
+                "isAlias":  true,
+                "refName":  "Color/Transparent/Tint_neutral_8"
+            },
     "2:41":  {
                  "pixsoName":  "Color/Error/Error_100",
                  "value":  "0xFFFFFFFF",
@@ -938,14 +746,6 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Error_Error_100"
              },
-    "8:150":  {
-                  "pixsoName":  "Label/Label S/Tracking",
-                  "kotlinName":  "Label_Label_S_Tracking",
-                  "refId":  "8:54",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Tracking/Tracking_5"
-              },
     "2:30":  {
                  "pixsoName":  "Color/Secondary/Secondary_60",
                  "value":  "0xFF739197",
@@ -953,20 +753,12 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Secondary_Secondary_60"
              },
-    "8:80":  {
-                 "pixsoName":  "Button/Button S/Tracking",
-                 "kotlinName":  "Button_Button_S_Tracking",
-                 "refId":  "8:50",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Tracking/Tracking_1"
-             },
     "2:108":  {
-                  "pixsoName":  "Space/Space_16",
+                  "pixsoName":  "Numeric/16",
                   "value":  16,
                   "type":  "number",
                   "isAlias":  false,
-                  "kotlinName":  "Space_Space_16"
+                  "kotlinName":  "Numeric_16"
               },
     "2:40":  {
                  "pixsoName":  "Color/Secondary/Secondary_0",
@@ -975,36 +767,12 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Secondary_Secondary_0"
              },
-    "8:110":  {
-                  "pixsoName":  "Headline/Headline S/Weight",
-                  "kotlinName":  "Headline_Headline_S_Weight",
-                  "refId":  "2:163",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Weight/Medium"
-              },
     "2:186":  {
                   "pixsoName":  "Color/Transparent/Tint_color_16",
                   "value":  "0x29004E60",
                   "type":  "color",
                   "isAlias":  false,
                   "kotlinName":  "Color_Transparent_Tint_color_16"
-              },
-    "8:151":  {
-                  "pixsoName":  "Label/Label S/Weight",
-                  "kotlinName":  "Label_Label_S_Weight",
-                  "refId":  "2:163",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Weight/Medium"
-              },
-    "8:188":  {
-                  "pixsoName":  "Title/Title M/Font",
-                  "kotlinName":  "Title_Title_M_Font",
-                  "refId":  "2:141",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Font_Family"
               },
     "8:143":  {
                   "pixsoName":  "Label/Label M/Line_Height",
@@ -1021,14 +789,6 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Secondary_Secondary_25"
              },
-    "8:68":  {
-                 "pixsoName":  "Button/Button M/Line_Height",
-                 "kotlinName":  "Button_Button_M_Line_Height",
-                 "refId":  "8:40",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Line_Height/Line_Height_20"
-             },
     "2:54":  {
                  "pixsoName":  "Color/Error/Error_20",
                  "value":  "0xFF690005",
@@ -1043,13 +803,13 @@
                   "isAlias":  false,
                   "kotlinName":  "Font_Weight_Medium"
               },
-    "8:53":  {
-                 "pixsoName":  "Font/Tracking/Tracking_4",
-                 "value":  0.4,
-                 "type":  "number",
-                 "isAlias":  false,
-                 "kotlinName":  "Font_Tracking_Tracking_4"
-             },
+    "2:112":  {
+                  "pixsoName":  "Numeric/32",
+                  "value":  32,
+                  "type":  "number",
+                  "isAlias":  false,
+                  "kotlinName":  "Numeric_32"
+              },
     "2:140":  {
                   "pixsoName":  "Font/Size/Size_56",
                   "value":  56,
@@ -1057,6 +817,13 @@
                   "isAlias":  false,
                   "kotlinName":  "Font_Size_Size_56"
               },
+    "2:70":  {
+                 "pixsoName":  "Color/Neutral/Neutral_30",
+                 "value":  "0xFF474747",
+                 "type":  "color",
+                 "isAlias":  false,
+                 "kotlinName":  "Color_Neutral_Neutral_30"
+             },
     "8:47":  {
                  "pixsoName":  "Font/Line_Height/Line_Height_40",
                  "value":  40,
@@ -1064,12 +831,13 @@
                  "isAlias":  false,
                  "kotlinName":  "Font_Line_Height_Line_Height_40"
              },
-    "2:136":  {
-                  "pixsoName":  "Font/Size/Size_40",
-                  "value":  40,
+    "8:128":  {
+                  "pixsoName":  "Body/Body S/Line_Height",
+                  "kotlinName":  "Body_Body_S_Line_Height",
+                  "refId":  "8:41",
                   "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Font_Size_Size_40"
+                  "isAlias":  true,
+                  "refName":  "Font/Line_Height/Line_Height_16"
               },
     "2:68":  {
                  "pixsoName":  "Color/Neutral/Neutral_40",
@@ -1078,27 +846,12 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Neutral_Neutral_40"
              },
-    "2:121":  {
-                  "pixsoName":  "Radius/Radius_None",
-                  "value":  0,
-                  "type":  "number",
+    "2:190":  {
+                  "pixsoName":  "Color/Transparent/Tint_neutral_16",
+                  "value":  "0x291B1C1C",
+                  "type":  "color",
                   "isAlias":  false,
-                  "kotlinName":  "Radius_Radius_None"
-              },
-    "2:105":  {
-                  "pixsoName":  "Space/Space_4",
-                  "value":  4,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Space_Space_4"
-              },
-    "8:148":  {
-                  "pixsoName":  "Label/Label S/Line_Height",
-                  "kotlinName":  "Label_Label_S_Line_Height",
-                  "refId":  "8:41",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Line_Height/Line_Height_16"
+                  "kotlinName":  "Color_Transparent_Tint_neutral_16"
               },
     "2:31":  {
                  "pixsoName":  "Color/Secondary/Secondary_50",
@@ -1107,28 +860,6 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Secondary_Secondary_50"
              },
-    "2:46":  {
-                 "pixsoName":  "Color/Error/Error_80",
-                 "value":  "0xFFFFB4AB",
-                 "type":  "color",
-                 "isAlias":  false,
-                 "kotlinName":  "Color_Error_Error_80"
-             },
-    "8:69":  {
-                 "pixsoName":  "Button/Button M/Size",
-                 "kotlinName":  "Button_Button_M_Size",
-                 "refId":  "2:130",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Size/Size_16"
-             },
-    "8:55":  {
-                 "pixsoName":  "Font/Tracking/Tracking_6",
-                 "value":  0.2,
-                 "type":  "number",
-                 "isAlias":  false,
-                 "kotlinName":  "Font_Tracking_Tracking_6"
-             },
     "2:184":  {
                   "pixsoName":  "Color/Transparent/Tint_color_40",
                   "value":  "0x66004E60",
@@ -1136,21 +867,6 @@
                   "isAlias":  false,
                   "kotlinName":  "Color_Transparent_Tint_color_40"
               },
-    "2:62":  {
-                 "pixsoName":  "Color/Neutral/Neutral_95",
-                 "value":  "0xFFF3F0F0",
-                 "type":  "color",
-                 "isAlias":  false,
-                 "kotlinName":  "Color_Neutral_Neutral_95"
-             },
-    "8:95":  {
-                 "pixsoName":  "Display/Display S/Tracking",
-                 "kotlinName":  "Display_Display_S_Tracking",
-                 "refId":  "8:49",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Tracking/Tracking_0"
-             },
     "3:7":  {
                 "pixsoName":  "Color/State/disabled",
                 "kotlinName":  "Color_State_disabled",
@@ -1173,75 +889,44 @@
                   "isAlias":  false,
                   "kotlinName":  "Font_Size_Size_32"
               },
-    "2:25":  {
-                 "pixsoName":  "Color/Secondary/Secondary_98",
-                 "value":  "0xFFF5F8F9",
-                 "type":  "color",
-                 "isAlias":  false,
-                 "kotlinName":  "Color_Secondary_Secondary_98"
-             },
-    "5:5":  {
-                "pixsoName":  "Color/Border/border_shade_16",
-                "kotlinName":  "Color_Border_border_shade_16",
-                "refId":  "2:190",
-                "type":  "color",
-                "isAlias":  true,
-                "refName":  "Color/Transparent/Tint_neutral_16"
-            },
-    "8:147":  {
-                  "pixsoName":  "Label/Label M/Font",
-                  "kotlinName":  "Label_Label_M_Font",
-                  "refId":  "2:141",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Font_Family"
-              },
-    "5:4":  {
-                "pixsoName":  "Color/Border/border_shade_8",
-                "kotlinName":  "Color_Border_border_shade_8",
-                "refId":  "2:191",
-                "type":  "color",
-                "isAlias":  true,
-                "refName":  "Color/Transparent/Tint_neutral_8"
-            },
-    "2:36":  {
-                 "pixsoName":  "Color/Secondary/Secondary_20",
-                 "value":  "0xFF1B2324",
-                 "type":  "color",
-                 "isAlias":  false,
-                 "kotlinName":  "Color_Secondary_Secondary_20"
-             },
-    "2:123":  {
-                  "pixsoName":  "Radius/Radius_20",
-                  "value":  20,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Radius_Radius_20"
-              },
-    "2:178":  {
-                  "pixsoName":  "Color/State/primary",
-                  "kotlinName":  "Color_State_primary",
-                  "refId":  "2:14",
-                  "type":  "color",
-                  "isAlias":  true,
-                  "refName":  "Color/Primary/Primary_40"
-              },
-    "2:176":  {
-                  "pixsoName":  "Color/Border/border_focus",
-                  "kotlinName":  "Color_Border_border_focus",
-                  "refId":  "2:11",
-                  "type":  "color",
-                  "isAlias":  true,
-                  "refName":  "Color/Primary/Primary_70"
-              },
-    "8:91":  {
-                 "pixsoName":  "Display/Display S/Font",
-                 "kotlinName":  "Display_Display_S_Font",
-                 "refId":  "2:141",
-                 "type":  "string",
+    "46:3":  {
+                 "pixsoName":  "Stroke/L",
+                 "kotlinName":  "Stroke_L",
+                 "refId":  "2:107",
+                 "type":  "number",
                  "isAlias":  true,
-                 "refName":  "Font/Font_Family"
+                 "refName":  "Numeric/12"
              },
+    "8:123":  {
+                  "pixsoName":  "Body/Body M/Line_Height",
+                  "kotlinName":  "Body_Body_M_Line_Height",
+                  "refId":  "8:40",
+                  "type":  "number",
+                  "isAlias":  true,
+                  "refName":  "Font/Line_Height/Line_Height_20"
+              },
+    "2:47":  {
+                 "pixsoName":  "Color/Error/Error_70",
+                 "value":  "0xFFFF897D",
+                 "type":  "color",
+                 "isAlias":  false,
+                 "kotlinName":  "Color_Error_Error_70"
+             },
+    "2:174":  {
+                  "pixsoName":  "Color/Border/border_shade_4",
+                  "kotlinName":  "Color_Border_border_shade_4",
+                  "refId":  "2:193",
+                  "type":  "color",
+                  "isAlias":  true,
+                  "refName":  "Color/Transparent/Tint_neutral_4"
+              },
+    "2:141":  {
+                  "pixsoName":  "Font/Font_Family",
+                  "value":  "IBM Plex Sans",
+                  "type":  "string",
+                  "isAlias":  false,
+                  "kotlinName":  "Font_Font_Family"
+              },
     "8:105":  {
                   "pixsoName":  "Headline/Headline M/Weight",
                   "kotlinName":  "Headline_Headline_M_Weight",
@@ -1250,12 +935,12 @@
                   "isAlias":  true,
                   "refName":  "Font/Weight/Regular"
               },
-    "2:53":  {
-                 "pixsoName":  "Color/Error/Error_25",
-                 "value":  "0xFF7E0008",
+    "2:33":  {
+                 "pixsoName":  "Color/Secondary/Secondary_35",
+                 "value":  "0xFF3D484B",
                  "type":  "color",
                  "isAlias":  false,
-                 "kotlinName":  "Color_Error_Error_25"
+                 "kotlinName":  "Color_Secondary_Secondary_35"
              },
     "2:5":  {
                 "pixsoName":  "Color/Primary/Primary_100",
@@ -1294,12 +979,12 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Secondary_Secondary_5"
              },
-    "2:119":  {
-                  "pixsoName":  "Radius/Radius_8",
-                  "value":  8,
+    "2:136":  {
+                  "pixsoName":  "Font/Size/Size_40",
+                  "value":  40,
                   "type":  "number",
                   "isAlias":  false,
-                  "kotlinName":  "Radius_Radius_8"
+                  "kotlinName":  "Font_Size_Size_40"
               },
     "4:5":  {
                 "pixsoName":  "Border-width/border-width_16",
@@ -1309,26 +994,27 @@
                 "kotlinName":  "Border_width_border_width_16"
             },
     "8:121":  {
-                  "pixsoName":  "Body/Body L/Weight",
-                  "kotlinName":  "Body_Body_L_Weight",
+                  "pixsoName":  "Body/Weight",
+                  "kotlinName":  "Body_Weight",
                   "refId":  "2:155",
                   "type":  "string",
                   "isAlias":  true,
                   "refName":  "Font/Weight/Regular"
               },
-    "2:57":  {
-                 "pixsoName":  "Color/Error/Error_5",
-                 "value":  "0xFF2D0001",
-                 "type":  "color",
-                 "isAlias":  false,
-                 "kotlinName":  "Color_Error_Error_5"
-             },
+    "2:176":  {
+                  "pixsoName":  "Color/Border/border_focus",
+                  "kotlinName":  "Color_Border_border_focus",
+                  "refId":  "2:11",
+                  "type":  "color",
+                  "isAlias":  true,
+                  "refName":  "Color/Primary/Primary_70"
+              },
     "2:113":  {
-                  "pixsoName":  "Space/Space_36",
+                  "pixsoName":  "Numeric/36",
                   "value":  36,
                   "type":  "number",
                   "isAlias":  false,
-                  "kotlinName":  "Space_Space_36"
+                  "kotlinName":  "Numeric_36"
               },
     "2:64":  {
                  "pixsoName":  "Color/Neutral/Neutral_80",
@@ -1337,27 +1023,21 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Neutral_Neutral_80"
              },
-    "8:44":  {
-                 "pixsoName":  "Font/Line_Height/Line_Height_24",
-                 "value":  24,
+    "5:5":  {
+                "pixsoName":  "Color/Border/border_shade_16",
+                "kotlinName":  "Color_Border_border_shade_16",
+                "refId":  "2:190",
+                "type":  "color",
+                "isAlias":  true,
+                "refName":  "Color/Transparent/Tint_neutral_16"
+            },
+    "8:93":  {
+                 "pixsoName":  "Display/Display S/Size",
+                 "kotlinName":  "Display_Display_S_Size",
+                 "refId":  "2:135",
                  "type":  "number",
-                 "isAlias":  false,
-                 "kotlinName":  "Font_Line_Height_Line_Height_24"
-             },
-    "8:128":  {
-                  "pixsoName":  "Body/Body S/Line_Height",
-                  "kotlinName":  "Body_Body_S_Line_Height",
-                  "refId":  "8:41",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Line_Height/Line_Height_16"
-              },
-    "8:40":  {
-                 "pixsoName":  "Font/Line_Height/Line_Height_20",
-                 "value":  20,
-                 "type":  "number",
-                 "isAlias":  false,
-                 "kotlinName":  "Font_Line_Height_Line_Height_20"
+                 "isAlias":  true,
+                 "refName":  "Font/Size/Size_36"
              },
     "8:118":  {
                   "pixsoName":  "Body/Body L/Line_Height",
@@ -1374,45 +1054,13 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Primary_Primary_60"
              },
-    "8:126":  {
-                  "pixsoName":  "Body/Body M/Weight",
-                  "kotlinName":  "Body_Body_M_Weight",
-                  "refId":  "2:155",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Weight/Regular"
-              },
-    "2:118":  {
-                  "pixsoName":  "Radius/Radius_4",
-                  "value":  4,
+    "2:131":  {
+                  "pixsoName":  "Font/Size/Size_20",
+                  "value":  20,
                   "type":  "number",
                   "isAlias":  false,
-                  "kotlinName":  "Radius_Radius_4"
+                  "kotlinName":  "Font_Size_Size_20"
               },
-    "8:88":  {
-                 "pixsoName":  "Display/Display M/Tracking",
-                 "kotlinName":  "Display_Display_M_Tracking",
-                 "refId":  "8:49",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Tracking/Tracking_0"
-             },
-    "8:192":  {
-                  "pixsoName":  "Title/Title M/Tracking",
-                  "kotlinName":  "Title_Title_M_Tracking",
-                  "refId":  "8:55",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Tracking/Tracking_6"
-              },
-    "8:64":  {
-                 "pixsoName":  "Button/Button L/Size",
-                 "kotlinName":  "Button_Button_L_Size",
-                 "refId":  "2:131",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Size/Size_20"
-             },
     "2:187":  {
                   "pixsoName":  "Color/Transparent/Tint_color_8",
                   "value":  "0x14004E60",
@@ -1420,21 +1068,22 @@
                   "isAlias":  false,
                   "kotlinName":  "Color_Transparent_Tint_color_8"
               },
-    "2:141":  {
-                  "pixsoName":  "Font/Font_Family",
-                  "value":  "IBM Plex Sans",
-                  "type":  "string",
-                  "isAlias":  false,
-                  "kotlinName":  "Font_Font_Family"
-              },
-    "8:129":  {
-                  "pixsoName":  "Body/Body S/Size",
-                  "kotlinName":  "Body_Body_S_Size",
-                  "refId":  "2:157",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Size/Size_12"
-              },
+    "8:94":  {
+                 "pixsoName":  "Display/Display S/Line_Height",
+                 "kotlinName":  "Display_Display_S_Line_Height",
+                 "refId":  "8:96",
+                 "type":  "number",
+                 "isAlias":  true,
+                 "refName":  "Font/Line_Height/Line_Height_44"
+             },
+    "3:3":  {
+                "pixsoName":  "Color/Bg/bg_shade_disabled",
+                "kotlinName":  "Color_Bg_bg_shade_disabled",
+                "refId":  "2:191",
+                "type":  "color",
+                "isAlias":  true,
+                "refName":  "Color/Transparent/Tint_neutral_8"
+            },
     "4:7":  {
                 "pixsoName":  "Color/Bg/bg_primary_light",
                 "kotlinName":  "Color_Bg_bg_primary_light",
@@ -1458,57 +1107,36 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Error_Error_15"
              },
-    "8:123":  {
-                  "pixsoName":  "Body/Body M/Line_Height",
-                  "kotlinName":  "Body_Body_M_Line_Height",
-                  "refId":  "8:40",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Line_Height/Line_Height_20"
-              },
-    "2:124":  {
-                  "pixsoName":  "Radius/Radius_24",
-                  "value":  24,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Radius_Radius_24"
-              },
-    "2:173":  {
-                  "pixsoName":  "Color/Text/text_link",
-                  "kotlinName":  "Color_Text_text_link",
-                  "refId":  "2:13",
+    "2:170":  {
+                  "pixsoName":  "Color/Text/text_2_level",
+                  "kotlinName":  "Color_Text_text_2_level",
+                  "refId":  "2:36",
                   "type":  "color",
                   "isAlias":  true,
-                  "refName":  "Color/Primary/Primary_50"
+                  "refName":  "Color/Secondary/Secondary_20"
               },
-    "8:46":  {
-                 "pixsoName":  "Font/Line_Height/Line_Height_32",
-                 "value":  32,
-                 "type":  "number",
-                 "isAlias":  false,
-                 "kotlinName":  "Font_Line_Height_Line_Height_32"
-             },
-    "2:51":  {
-                 "pixsoName":  "Color/Error/Error_35",
-                 "value":  "0xFFA60F14",
+    "2:50":  {
+                 "pixsoName":  "Color/Error/Error_40",
+                 "value":  "0xFFB81F1E",
                  "type":  "color",
                  "isAlias":  false,
-                 "kotlinName":  "Color_Error_Error_35"
+                 "kotlinName":  "Color_Error_Error_40"
              },
-    "8:116":  {
-                  "pixsoName":  "Headline/Headline XS/Weight",
-                  "kotlinName":  "Headline_Headline_XS_Weight",
-                  "refId":  "2:163",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Weight/Medium"
-              },
-    "2:122":  {
-                  "pixsoName":  "Radius/Radius_16",
-                  "value":  16,
+    "8:69":  {
+                 "pixsoName":  "Button/Button M/Size",
+                 "kotlinName":  "Button_Button_M_Size",
+                 "refId":  "2:130",
+                 "type":  "number",
+                 "isAlias":  true,
+                 "refName":  "Font/Size/Size_16"
+             },
+    "8:129":  {
+                  "pixsoName":  "Body/Body S/Size",
+                  "kotlinName":  "Body_Body_S_Size",
+                  "refId":  "2:157",
                   "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Radius_Radius_16"
+                  "isAlias":  true,
+                  "refName":  "Font/Size/Size_12"
               },
     "2:164":  {
                   "pixsoName":  "Font/Weight/SemiBold",
@@ -1517,21 +1145,12 @@
                   "isAlias":  false,
                   "kotlinName":  "Font_Weight_SemiBold"
               },
-    "8:189":  {
-                  "pixsoName":  "Title/Title M/Weight",
-                  "kotlinName":  "Title_Title_M_Weight",
-                  "refId":  "2:163",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Weight/Medium"
-              },
-    "2:172":  {
-                  "pixsoName":  "Color/Text/text_inverse",
-                  "kotlinName":  "Color_Text_text_inverse",
-                  "refId":  "2:6",
-                  "type":  "color",
-                  "isAlias":  true,
-                  "refName":  "Color/Primary/Primary_99"
+    "2:139":  {
+                  "pixsoName":  "Font/Size/Size_52",
+                  "value":  52,
+                  "type":  "number",
+                  "isAlias":  false,
+                  "kotlinName":  "Font_Size_Size_52"
               },
     "2:61":  {
                  "pixsoName":  "Color/Neutral/Neutral_98",
@@ -1547,6 +1166,20 @@
                   "isAlias":  false,
                   "kotlinName":  "Color_Transparent_Tint_color_24"
               },
+    "8:45":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_28",
+                 "value":  28,
+                 "type":  "number",
+                 "isAlias":  false,
+                 "kotlinName":  "Font_Line_Height_Line_Height_28"
+             },
+    "2:157":  {
+                  "pixsoName":  "Font/Size/Size_12",
+                  "value":  12,
+                  "type":  "number",
+                  "isAlias":  false,
+                  "kotlinName":  "Font_Size_Size_12"
+              },
     "8:96":  {
                  "pixsoName":  "Font/Line_Height/Line_Height_44",
                  "value":  44,
@@ -1561,51 +1194,27 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Secondary_Secondary_10"
              },
-    "8:81":  {
-                 "pixsoName":  "Display/Display L/Font",
-                 "kotlinName":  "Display_Display_L_Font",
-                 "refId":  "2:141",
-                 "type":  "string",
-                 "isAlias":  true,
-                 "refName":  "Font/Font_Family"
+    "2:107":  {
+                  "pixsoName":  "Numeric/12",
+                  "value":  12,
+                  "type":  "number",
+                  "isAlias":  false,
+                  "kotlinName":  "Numeric_12"
+              },
+    "46:2":  {
+                 "pixsoName":  "Numeric/1",
+                 "value":  1,
+                 "type":  "number",
+                 "isAlias":  false,
+                 "kotlinName":  "Numeric_1"
              },
-    "2:137":  {
-                  "pixsoName":  "Font/Size/Size_44",
-                  "value":  44,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Font_Size_Size_44"
-              },
-    "2:126":  {
-                  "pixsoName":  "Radius/Radius_32",
-                  "value":  32,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Radius_Radius_32"
-              },
-    "8:190":  {
-                  "pixsoName":  "Title/Title M/Size",
-                  "kotlinName":  "Title_Title_M_Size",
-                  "refId":  "2:130",
-                  "type":  "number",
+    "2:171":  {
+                  "pixsoName":  "Color/Text/text_3_level",
+                  "kotlinName":  "Color_Text_text_3_level",
+                  "refId":  "2:68",
+                  "type":  "color",
                   "isAlias":  true,
-                  "refName":  "Font/Size/Size_16"
-              },
-    "8:195":  {
-                  "pixsoName":  "Title/Title S/Size",
-                  "kotlinName":  "Title_Title_S_Size",
-                  "refId":  "2:158",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Size/Size_14"
-              },
-    "8:104":  {
-                  "pixsoName":  "Headline/Headline M/Tracking",
-                  "kotlinName":  "Headline_Headline_M_Tracking",
-                  "refId":  "8:49",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Tracking/Tracking_0"
+                  "refName":  "Color/Neutral/Neutral_40"
               },
     "8:113":  {
                   "pixsoName":  "Headline/Headline XS/Line_Height",
@@ -1622,14 +1231,6 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Neutral_Neutral_70"
              },
-    "2:170":  {
-                  "pixsoName":  "Color/Text/text_2_level",
-                  "kotlinName":  "Color_Text_text_2_level",
-                  "refId":  "2:36",
-                  "type":  "color",
-                  "isAlias":  true,
-                  "refName":  "Color/Secondary/Secondary_20"
-              },
     "2:177":  {
                   "pixsoName":  "Color/Border/border_error",
                   "kotlinName":  "Color_Border_border_error",
@@ -1638,13 +1239,6 @@
                   "isAlias":  true,
                   "refName":  "Color/Error/Error_40"
               },
-    "8:54":  {
-                 "pixsoName":  "Font/Tracking/Tracking_5",
-                 "value":  0.1,
-                 "type":  "number",
-                 "isAlias":  false,
-                 "kotlinName":  "Font_Tracking_Tracking_5"
-             },
     "8:119":  {
                   "pixsoName":  "Body/Body L/Size",
                   "kotlinName":  "Body_Body_L_Size",
@@ -1653,14 +1247,13 @@
                   "isAlias":  true,
                   "refName":  "Font/Size/Size_16"
               },
-    "8:132":  {
-                  "pixsoName":  "Body/Body S/Font",
-                  "kotlinName":  "Body_Body_S_Font",
-                  "refId":  "2:141",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Font_Family"
-              },
+    "2:21":  {
+                 "pixsoName":  "Color/Primary/Primary_5",
+                 "value":  "0xFF00131A",
+                 "type":  "color",
+                 "isAlias":  false,
+                 "kotlinName":  "Color_Primary_Primary_5"
+             },
     "2:63":  {
                  "pixsoName":  "Color/Neutral/Neutral_90",
                  "value":  "0xFFE4E2E2",
@@ -1668,6 +1261,13 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Neutral_Neutral_90"
              },
+    "2:133":  {
+                  "pixsoName":  "Font/Size/Size_28",
+                  "value":  28,
+                  "type":  "number",
+                  "isAlias":  false,
+                  "kotlinName":  "Font_Size_Size_28"
+              },
     "2:192":  {
                   "pixsoName":  "Color/Transparent/Tint_neutral_64",
                   "value":  "0xA31B1C1C",
@@ -1675,14 +1275,6 @@
                   "isAlias":  false,
                   "kotlinName":  "Color_Transparent_Tint_neutral_64"
               },
-    "8:93":  {
-                 "pixsoName":  "Display/Display S/Size",
-                 "kotlinName":  "Display_Display_S_Size",
-                 "refId":  "2:135",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Size/Size_36"
-             },
     "8:98":  {
                  "pixsoName":  "Headline/Headline L/Size",
                  "kotlinName":  "Headline_Headline_L_Size",
@@ -1698,20 +1290,35 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Primary_Primary_25"
              },
-    "2:130":  {
-                  "pixsoName":  "Font/Size/Size_16",
-                  "value":  16,
+    "2:51":  {
+                 "pixsoName":  "Color/Error/Error_35",
+                 "value":  "0xFFA60F14",
+                 "type":  "color",
+                 "isAlias":  false,
+                 "kotlinName":  "Color_Error_Error_35"
+             },
+    "2:105":  {
+                  "pixsoName":  "Numeric/4",
+                  "value":  4,
                   "type":  "number",
                   "isAlias":  false,
-                  "kotlinName":  "Font_Size_Size_16"
+                  "kotlinName":  "Numeric_4"
               },
-    "4:4":  {
-                "pixsoName":  "Border-width/border-width_8",
-                "value":  8,
-                "type":  "number",
-                "isAlias":  false,
-                "kotlinName":  "Border_width_border_width_8"
-            },
+    "2:109":  {
+                  "pixsoName":  "Numeric/20",
+                  "value":  20,
+                  "type":  "number",
+                  "isAlias":  false,
+                  "kotlinName":  "Numeric_20"
+              },
+    "2:173":  {
+                  "pixsoName":  "Color/Text/text_link",
+                  "kotlinName":  "Color_Text_text_link",
+                  "refId":  "2:13",
+                  "type":  "color",
+                  "isAlias":  true,
+                  "refName":  "Color/Primary/Primary_50"
+              },
     "4:10":  {
                  "pixsoName":  "Color/State/on_tertiary",
                  "kotlinName":  "Color_State_on_tertiary",
@@ -1720,22 +1327,21 @@
                  "isAlias":  true,
                  "refName":  "Color/Primary/Primary_98"
              },
-    "8:97":  {
-                 "pixsoName":  "Headline/Headline L/Line_Height",
-                 "kotlinName":  "Headline_Headline_L_Line_Height",
-                 "refId":  "8:47",
+    "46:1":  {
+                 "pixsoName":  "Stroke/S",
+                 "kotlinName":  "Stroke_S",
+                 "refId":  "46:2",
                  "type":  "number",
                  "isAlias":  true,
-                 "refName":  "Font/Line_Height/Line_Height_40"
+                 "refName":  "Numeric/1"
              },
-    "8:125":  {
-                  "pixsoName":  "Body/Body M/Tracking",
-                  "kotlinName":  "Body_Body_M_Tracking",
-                  "refId":  "8:52",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Tracking/Tracking_3"
-              },
+    "8:44":  {
+                 "pixsoName":  "Font/Line_Height/Line_Height_24",
+                 "value":  24,
+                 "type":  "number",
+                 "isAlias":  false,
+                 "kotlinName":  "Font_Line_Height_Line_Height_24"
+             },
     "2:67":  {
                  "pixsoName":  "Color/Neutral/Neutral_50",
                  "value":  "0xFF787777",
@@ -1751,14 +1357,6 @@
                   "isAlias":  true,
                   "refName":  "Color/Primary/Primary_100"
               },
-    "8:197":  {
-                  "pixsoName":  "Title/Title S/Tracking",
-                  "kotlinName":  "Title_Title_S_Tracking",
-                  "refId":  "8:54",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Tracking/Tracking_5"
-              },
     "2:10":  {
                  "pixsoName":  "Color/Primary/Primary_80",
                  "value":  "0xFF87DAEB",
@@ -1766,20 +1364,26 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Primary_Primary_80"
              },
-    "8:140":  {
-                  "pixsoName":  "Label/Label L/Tracking",
-                  "kotlinName":  "Label_Label_L_Tracking",
-                  "refId":  "8:54",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Tracking/Tracking_5"
-              },
-    "2:120":  {
-                  "pixsoName":  "Radius/Radius_12",
-                  "value":  12,
+    "2:132":  {
+                  "pixsoName":  "Font/Size/Size_24",
+                  "value":  24,
                   "type":  "number",
                   "isAlias":  false,
-                  "kotlinName":  "Radius_Radius_12"
+                  "kotlinName":  "Font_Size_Size_24"
+              },
+    "2:53":  {
+                 "pixsoName":  "Color/Error/Error_25",
+                 "value":  "0xFF7E0008",
+                 "type":  "color",
+                 "isAlias":  false,
+                 "kotlinName":  "Color_Error_Error_25"
+             },
+    "2:137":  {
+                  "pixsoName":  "Font/Size/Size_44",
+                  "value":  44,
+                  "type":  "number",
+                  "isAlias":  false,
+                  "kotlinName":  "Font_Size_Size_44"
               },
     "2:15":  {
                  "pixsoName":  "Color/Primary/Primary_35",
@@ -1788,20 +1392,20 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Primary_Primary_35"
              },
-    "8:90":  {
-                 "pixsoName":  "Display/Display M/Font",
-                 "kotlinName":  "Display_Display_M_Font",
-                 "refId":  "2:141",
-                 "type":  "string",
-                 "isAlias":  true,
-                 "refName":  "Font/Font_Family"
-             },
+    "44:14":  {
+                  "pixsoName":  "Radius/Radius_S",
+                  "kotlinName":  "Radius_Radius_S",
+                  "refId":  "2:108",
+                  "type":  "number",
+                  "isAlias":  true,
+                  "refName":  "Numeric/16"
+              },
     "2:116":  {
-                  "pixsoName":  "Space/Space_52",
+                  "pixsoName":  "Numeric/52",
                   "value":  52,
                   "type":  "number",
                   "isAlias":  false,
-                  "kotlinName":  "Space_Space_52"
+                  "kotlinName":  "Numeric_52"
               },
     "4:6":  {
                 "pixsoName":  "Border-width/border-width_24",
@@ -1810,29 +1414,6 @@
                 "isAlias":  false,
                 "kotlinName":  "Border_width_border_width_24"
             },
-    "8:145":  {
-                  "pixsoName":  "Label/Label M/Tracking",
-                  "kotlinName":  "Label_Label_M_Tracking",
-                  "refId":  "8:50",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Tracking/Tracking_1"
-              },
-    "8:142":  {
-                  "pixsoName":  "Label/Label L/Font",
-                  "kotlinName":  "Label_Label_L_Font",
-                  "refId":  "2:141",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Font_Family"
-              },
-    "2:125":  {
-                  "pixsoName":  "Radius/Radius_28",
-                  "value":  28,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Radius_Radius_28"
-              },
     "2:48":  {
                  "pixsoName":  "Color/Error/Error_60",
                  "value":  "0xFFFF544A",
@@ -1848,20 +1429,13 @@
                   "isAlias":  true,
                   "refName":  "Font/Size/Size_14"
               },
-    "2:156":  {
-                  "pixsoName":  "Font/Size/Size_11",
-                  "value":  11,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Font_Size_Size_11"
-              },
-    "8:92":  {
-                 "pixsoName":  "Display/Display S/Weight",
-                 "kotlinName":  "Display_Display_S_Weight",
-                 "refId":  "2:155",
-                 "type":  "string",
+    "8:68":  {
+                 "pixsoName":  "Button/Button M/Line_Height",
+                 "kotlinName":  "Button_Button_M_Line_Height",
+                 "refId":  "8:40",
+                 "type":  "number",
                  "isAlias":  true,
-                 "refName":  "Font/Weight/Regular"
+                 "refName":  "Font/Line_Height/Line_Height_20"
              },
     "2:16":  {
                  "pixsoName":  "Color/Primary/Primary_30",
@@ -1870,13 +1444,12 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Primary_Primary_30"
              },
-    "8:115":  {
-                  "pixsoName":  "Headline/Headline XS/Tracking",
-                  "kotlinName":  "Headline_Headline_XS_Tracking",
-                  "refId":  "8:49",
+    "2:106":  {
+                  "pixsoName":  "Numeric/8",
+                  "value":  8,
                   "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Tracking/Tracking_0"
+                  "isAlias":  false,
+                  "kotlinName":  "Numeric_8"
               },
     "2:11":  {
                  "pixsoName":  "Color/Primary/Primary_70",
@@ -1885,14 +1458,6 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Primary_Primary_70"
              },
-    "8:109":  {
-                  "pixsoName":  "Headline/Headline S/Tracking",
-                  "kotlinName":  "Headline_Headline_S_Tracking",
-                  "refId":  "8:49",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Tracking/Tracking_0"
-              },
     "2:165":  {
                   "pixsoName":  "Color/Bg/bg_canvas",
                   "kotlinName":  "Color_Bg_bg_canvas",
@@ -1901,22 +1466,6 @@
                   "isAlias":  true,
                   "refName":  "Color/Neutral/Neutral_95"
               },
-    "8:100":  {
-                  "pixsoName":  "Headline/Headline L/Weight",
-                  "kotlinName":  "Headline_Headline_L_Weight",
-                  "refId":  "2:155",
-                  "type":  "string",
-                  "isAlias":  true,
-                  "refName":  "Font/Weight/Regular"
-              },
-    "8:89":  {
-                 "pixsoName":  "Display/Display M/Weight",
-                 "kotlinName":  "Display_Display_M_Weight",
-                 "refId":  "2:155",
-                 "type":  "string",
-                 "isAlias":  true,
-                 "refName":  "Font/Weight/Regular"
-             },
     "2:20":  {
                  "pixsoName":  "Color/Primary/Primary_10",
                  "value":  "0xFF001F28",
@@ -1938,36 +1487,13 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Neutral_Neutral_25"
              },
-    "8:76":  {
-                 "pixsoName":  "Button/Button S/Font",
-                 "kotlinName":  "Button_Button_S_Font",
-                 "refId":  "2:141",
-                 "type":  "string",
-                 "isAlias":  true,
-                 "refName":  "Font/Font_Family"
-             },
-    "11:2":  {
-                 "pixsoName":  "Space/Space_88",
-                 "value":  88,
+    "8:97":  {
+                 "pixsoName":  "Headline/Headline L/Line_Height",
+                 "kotlinName":  "Headline_Headline_L_Line_Height",
+                 "refId":  "8:47",
                  "type":  "number",
-                 "isAlias":  false,
-                 "kotlinName":  "Space_Space_88"
-             },
-    "8:130":  {
-                  "pixsoName":  "Body/Body S/Tracking",
-                  "kotlinName":  "Body_Body_S_Tracking",
-                  "refId":  "8:53",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Tracking/Tracking_4"
-              },
-    "8:62":  {
-                 "pixsoName":  "Button/Button L/Font",
-                 "kotlinName":  "Button_Button_L_Font",
-                 "refId":  "2:141",
-                 "type":  "string",
                  "isAlias":  true,
-                 "refName":  "Font/Font_Family"
+                 "refName":  "Font/Line_Height/Line_Height_40"
              },
     "4:8":  {
                 "pixsoName":  "Color/Border/border_primary",
@@ -1977,35 +1503,28 @@
                 "isAlias":  true,
                 "refName":  "Color/Transparent/Tint_color_24"
             },
-    "2:106":  {
-                  "pixsoName":  "Space/Space_8",
-                  "value":  8,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Space_Space_8"
-              },
-    "2:66":  {
-                 "pixsoName":  "Color/Neutral/Neutral_60",
-                 "value":  "0xFF929090",
+    "2:13":  {
+                 "pixsoName":  "Color/Primary/Primary_50",
+                 "value":  "0xFF318798",
                  "type":  "color",
                  "isAlias":  false,
-                 "kotlinName":  "Color_Neutral_Neutral_60"
+                 "kotlinName":  "Color_Primary_Primary_50"
              },
-    "8:50":  {
-                 "pixsoName":  "Font/Tracking/Tracking_1",
-                 "value":  0.5,
-                 "type":  "number",
+    "2:25":  {
+                 "pixsoName":  "Color/Secondary/Secondary_98",
+                 "value":  "0xFFF5F8F9",
+                 "type":  "color",
                  "isAlias":  false,
-                 "kotlinName":  "Font_Tracking_Tracking_1"
+                 "kotlinName":  "Color_Secondary_Secondary_98"
              },
-    "8:99":  {
-                 "pixsoName":  "Headline/Headline L/Tracking",
-                 "kotlinName":  "Headline_Headline_L_Tracking",
-                 "refId":  "8:49",
-                 "type":  "number",
-                 "isAlias":  true,
-                 "refName":  "Font/Tracking/Tracking_0"
-             },
+    "44:16":  {
+                  "pixsoName":  "Radius/Radius_None",
+                  "kotlinName":  "Radius_Radius_None",
+                  "refId":  "2:103",
+                  "type":  "number",
+                  "isAlias":  true,
+                  "refName":  "Numeric/0"
+              },
     "8:43":  {
                  "pixsoName":  "Font/Line_Height/Line_Height_52",
                  "value":  52,
@@ -2013,20 +1532,13 @@
                  "isAlias":  false,
                  "kotlinName":  "Font_Line_Height_Line_Height_52"
              },
-    "8:112":  {
-                  "pixsoName":  "Font/Line_Height/Line_Height_36",
-                  "value":  36,
+    "8:124":  {
+                  "pixsoName":  "Body/Body M/Size",
+                  "kotlinName":  "Body_Body_M_Size",
+                  "refId":  "2:158",
                   "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Font_Line_Height_Line_Height_36"
-              },
-    "8:122":  {
-                  "pixsoName":  "Body/Body L/Font",
-                  "kotlinName":  "Body_Body_L_Font",
-                  "refId":  "2:141",
-                  "type":  "string",
                   "isAlias":  true,
-                  "refName":  "Font/Font_Family"
+                  "refName":  "Font/Size/Size_14"
               },
     "3:2":  {
                 "pixsoName":  "Color/Bg/bg_shade_primary",
@@ -2043,12 +1555,13 @@
                  "isAlias":  false,
                  "kotlinName":  "Color_Neutral_Neutral_5"
              },
-    "2:131":  {
-                  "pixsoName":  "Font/Size/Size_20",
-                  "value":  20,
-                  "type":  "number",
-                  "isAlias":  false,
-                  "kotlinName":  "Font_Size_Size_20"
+    "2:167":  {
+                  "pixsoName":  "Color/Bg/bg_subtle",
+                  "kotlinName":  "Color_Bg_bg_subtle",
+                  "refId":  "2:61",
+                  "type":  "color",
+                  "isAlias":  true,
+                  "refName":  "Color/Neutral/Neutral_98"
               },
     "8:107":  {
                   "pixsoName":  "Headline/Headline S/Line_Height",
@@ -2058,27 +1571,12 @@
                   "isAlias":  true,
                   "refName":  "Font/Line_Height/Line_Height_32"
               },
-    "8:49":  {
-                 "pixsoName":  "Font/Tracking/Tracking_0",
-                 "value":  0,
-                 "type":  "number",
-                 "isAlias":  false,
-                 "kotlinName":  "Font_Tracking_Tracking_0"
-             },
-    "8:185":  {
-                  "pixsoName":  "Title/Title L/Size",
-                  "kotlinName":  "Title_Title_L_Size",
-                  "refId":  "2:132",
-                  "type":  "number",
-                  "isAlias":  true,
-                  "refName":  "Font/Size/Size_24"
-              },
-    "2:21":  {
-                 "pixsoName":  "Color/Primary/Primary_5",
-                 "value":  "0xFF00131A",
+    "2:62":  {
+                 "pixsoName":  "Color/Neutral/Neutral_95",
+                 "value":  "0xFFF3F0F0",
                  "type":  "color",
                  "isAlias":  false,
-                 "kotlinName":  "Color_Primary_Primary_5"
+                 "kotlinName":  "Color_Neutral_Neutral_95"
              },
     "2:191":  {
                   "pixsoName":  "Color/Transparent/Tint_neutral_8",
@@ -2087,6 +1585,13 @@
                   "isAlias":  false,
                   "kotlinName":  "Color_Transparent_Tint_neutral_8"
               },
+    "2:49":  {
+                 "pixsoName":  "Color/Error/Error_50",
+                 "value":  "0xFFDB3A34",
+                 "type":  "color",
+                 "isAlias":  false,
+                 "kotlinName":  "Color_Error_Error_50"
+             },
     "4:1":  {
                 "pixsoName":  "Border-width/border-width_1",
                 "value":  1,
