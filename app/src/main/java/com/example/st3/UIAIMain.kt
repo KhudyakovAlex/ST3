@@ -28,7 +28,7 @@ fun UIAIMain(modifier: Modifier = Modifier) {
     Box(
         modifier = modifier
             .fillMaxWidth()
-            .height(128.dp)
+            .height(100.dp)
             .clip(
                 RoundedCornerShape(
                     topStart = PixsoDimens.Radius_Radius_L,
@@ -38,7 +38,7 @@ fun UIAIMain(modifier: Modifier = Modifier) {
                 )
             )
             .background(PixsoColors.Color_Bg_bg_elevated)
-            .padding(16.dp)
+            .padding(start = 16.dp, end = 16.dp, top = 4.dp, bottom = 0.dp)
     ) {
         Row(
             modifier = Modifier
